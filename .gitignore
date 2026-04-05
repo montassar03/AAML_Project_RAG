@@ -1,0 +1,12 @@
+# Data files (too large for GitHub)
+data/
+results/
+logs/
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Conda
+*.egg-info/

@@ -40,7 +40,7 @@ OUTPUT_DIR = Path("/home/a/arfaoui/rag_project/Output")
 
 DATASET_PATH = DATA_DIR / "hotpotqa_sample_500.json"
 
-CHUNK_SIZES = [32, 128, 256]
+CHUNK_SIZES = [256]
 FIXED_TOP_K = 5
 
 EMBED_MODEL_NAME = "BAAI/bge-small-en-v1.5"
@@ -54,12 +54,27 @@ LLM_NAME = "meta-llama/Llama-3.2-3B-Instruct"
 def ensure_dir(path: Path):
     """Create directory if it does not already exist."""
     path.mkdir(parents=True, exist_ok=True)
-
-
 def load_json(path: Path):
     """Load a JSON file."""
     with open(path, "r", encoding="utf-8") as f:
         return json.load(f)
+
+import datasets
+
+def load_hotpot_sample(max_examples=None):
+    """
+    Load the fixed HotpotQA sample from disk.
+
+    The sample file is stored in JSON Lines format, so we load it
+    with the datasets library exactly like in the testing notebook.
+    """
+    sample_path = DATA_DIR / "hotpotqa_sample_500.json"
+    hotpot_sample = datasets.load_dataset("json", data_files=str(sample_path))["train"]
+
+    if max_examples is not None:
+        hotpot_sample = hotpot_sample.select(range(min(max_examples, len(hotpot_sample))))
+
+    return hotpot_sample
 
 
 def save_json(path: Path, obj):
@@ -300,7 +315,7 @@ def load_chunk_resources(chunk_size):
     return index, metadata
 
 
-def load_dataset(max_examples=None):
+def load_saved_dataset_json(max_examples=None):
     """
     Load the saved HotpotQA sample.
 
@@ -312,6 +327,7 @@ def load_dataset(max_examples=None):
         data = data[:max_examples]
 
     return data
+
 
 
 # ============================================================
@@ -480,7 +496,7 @@ def main():
     ensure_dir(OUTPUT_DIR)
 
     print("Loading dataset...")
-    dataset = load_dataset(max_examples=args.max_examples)
+    dataset = load_hotpot_sample(max_examples=args.max_examples)
     print(f"Loaded {len(dataset)} examples")
 
     print("Loading embedding model...")

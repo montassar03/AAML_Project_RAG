@@ -1,0 +1,24 @@
+[
+  {
+    "num_examples": 500,
+    "avg_EM": 0.214,
+    "avg_F1": 0.34845979802716237,
+    "avg_Recall@k_answer": 0.246,
+    "avg_Recall@k_support_titles": 0.736,
+    "latency_p50": 1.07688307762146,
+    "latency_p95": 1.129809296131134,
+    "chunk_size": 32,
+    "top_k": 1
+  },
+  {
+    "num_examples": 500,
+    "avg_EM": 0.294,
+    "avg_F1": 0.4443448559267418,
+    "avg_Recall@k_answer": 0.574,
+    "avg_Recall@k_support_titles": 0.974,
+    "latency_p50": 1.5913302898406982,
+    "latency_p95": 1.7309998512268066,
+    "chunk_size": 32,
+    "top_k": 8
+  }
+]

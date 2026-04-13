@@ -37,16 +37,15 @@ from transformers import AutoTokenizer, AutoModelForCausalLM
 # ============================================================
 
 DATA_DIR = Path("/home/a/arfaoui/rag_project/data")
-OUTPUT_DIR = Path("/home/a/arfaoui/rag_project/Output")
+OUTPUT_DIR = Path("/home/a/arfaoui/rag_project/Output_1B")
 
 DATASET_PATH = DATA_DIR / "hotpotqa_sample_500.json"
 
-FIXED_CHUNK_SIZE = 128
-TOP_K_VALUES= [10]
+FIXED_CHUNK_SIZE = 32
+TOP_K_VALUES= [1, 10]
 
 EMBED_MODEL_NAME = "BAAI/bge-small-en-v1.5"
-LLM_NAME = "meta-llama/Llama-3.2-3B-Instruct"
-
+LLM_NAME = "meta-llama/Llama-3.2-1B-Instruct"
 
 # ============================================================
 # Utility functions
@@ -258,10 +257,10 @@ def build_retrieved_context(retrieved_chunks):
 
 def build_prompt(question, context):
     """
-    Fixed prompt from the notebook.
+    Fixed prompt
 
     We keep this prompt unchanged because it gave the best results
-    during notebook testing.
+    during notebook testing experiments.
     """
     prompt = f"""Context:
 {context}
@@ -531,11 +530,11 @@ def main():
 
     # Save one global summary file for the whole script
 
-    save_json(OUTPUT_DIR / "summary_script2_topk_study.json", all_summaries)
-    pd.DataFrame(all_summaries).to_csv(
-        OUTPUT_DIR / "summary_script2_topk_study.csv",
-        index=False
-    )
+   # save_json(OUTPUT_DIR / "summary_script2_topk_study.json", all_summaries)
+   # pd.DataFrame(all_summaries).to_csv(
+   #     OUTPUT_DIR / "summary_script2_topk_study.csv",
+   #     index=False
+   # )
 
     print("\nAll configurations completed.")
 

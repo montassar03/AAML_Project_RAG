@@ -36,15 +36,15 @@ from transformers import AutoTokenizer, AutoModelForCausalLM
 # ============================================================
 
 DATA_DIR = Path("/home/a/arfaoui/rag_project/data")
-OUTPUT_DIR = Path("/home/a/arfaoui/rag_project/Output")
+OUTPUT_DIR = Path("/home/a/arfaoui/rag_project/Output_1B")
 
 DATASET_PATH = DATA_DIR / "hotpotqa_sample_500.json"
 
-CHUNK_SIZES = [256]
+CHUNK_SIZES = [32, 128, 256]
 FIXED_TOP_K = 5
 
 EMBED_MODEL_NAME = "BAAI/bge-small-en-v1.5"
-LLM_NAME = "meta-llama/Llama-3.2-3B-Instruct"
+LLM_NAME = "meta-llama/Llama-3.2-1B-Instruct"
 
 
 # ============================================================

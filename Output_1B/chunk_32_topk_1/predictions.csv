@@ -1,0 +1,501 @@
+question,correct_answer,prediction,EM,F1,Recall@k_answer,Recall@k_support_titles,latency,chunk_size,top_k,retrieved_titles
+What date in 2010 was a South Korean film starring  Kim Hyang-gi released?,"January 14, 2010",2010,0,0.5,0,0,3.5675594806671143,32,1,Along with the Gods - Part 1
+Who was the film which was Kim Dae-woo's directing debut about ?,a scholar,Kim Dae-woo's film debut was about a man who is a former soldier.,0,0.13333333333333336,0,1,0.4746823310852051,32,1,Kim Dae-woo
+What is the full name of the company co founded by Jay Van Andel?,American Way,Van Andel Group,0,0.0,0,0,0.5765020847320557,32,1,Jay Van Andel
+Who is the author of the play that was adapted into a film and featured the orchestral arrangement Suite from Henry V?,William Shakespeare,William Shakespeare,1,1.0,0,1,0.23868250846862793,32,1,Suite from Henry V
+what 6-story building was listed on the National Register of Historic Places in 1980?,Worcester Cold Storage and Warehouse Co. fire,Bloomingdale Firehouse,0,0.0,0,1,0.5315065383911133,32,1,Bloomingdale Firehouse
+"Which genus is native to arid or semi-desert areas, Alopecurus or Echeveria?",Echeveria,Echeveria,1,1.0,1,1,0.5788776874542236,32,1,Echeveria
+"Steve Denton and Albert Costa are both tennis players, which one began playing at the age if five?",Costa,5,0,0.0,0,1,0.22424077987670898,32,1,Steve Denton
+"Which Naperville Central High School quarterback, became the 1988 starting quarterback for the Leicester Panthers?",Patrick Sean Payton,Sean Payton,0,0.8,0,1,0.5763871669769287,32,1,Sean Payton
+"When did the tour begin for the album Taylor Swift released on October 22, 2012?","March 13, 2013",2012,0,0.0,0,0,0.5764708518981934,32,1,Taylor Swift (album)
+"Who co-starred in an episode of The ABC Comedy Hour with the man who played Duke Slater in ""Gomer Pyle, U.S.M.C.""? ",Jack Cassidy,ABC Comedy Hour,0,0.0,0,0,0.3571357727050781,32,1,"List of Gomer Pyle, U.S.M.C. episodes"
+What town's geographic feature is the battle James Swan was twice wounded at named for?,"Charlestown, Massachusetts",Bunker Hill,0,0.0,1,1,0.5771167278289795,32,1,Battle of Bunker Hill
+"Who has won the most Olympic medals for figure skating, Debi Thomas or Katarina Witt?",Katarina Witt,Debi Thomas or Katarina Witt,0,0.5714285714285715,1,1,0.577566385269165,32,1,Katarina Witt
+What is the brand who makes canned meats that had its own cook off in Austin until 2007?,Hormel Foods Corporation,Hormel Foods Corporation,1,1.0,1,1,0.5775761604309082,32,1,Spam (food)
+What is one element of House dance where the dancer ripples his or her torso back and forth?,the jack,Torso ripple,0,0.0,1,1,0.5763568878173828,32,1,Jacking
+The seventh largest inhabited island in Hawaii has what remote wild beach?,Polihale State Park,Niihau has a remote wild beach.,0,0.0,0,1,0.44399380683898926,32,1,Niihau
+"What actress is known for a starring role in Robert Bresson's ""Pickpocket"" and has also been directed by Just Jaeckin, a former photographer?",Marika Nicolette Green,Marika Green,0,0.8,0,1,0.5773262977600098,32,1,Marika Green
+"Which band was formed first, Fitz and The Tantrums or The Contortionist?",The Contortionist,The Contortionist was formed first.,0,0.5714285714285715,1,1,0.38584351539611816,32,1,The Contortionist
+Are John O'Hara and Rabindranath Tagore the same nationality?,no,No,1,1.0,1,0,0.576993465423584,32,1,Rajeshwari Datta
+Khushi Ek Roag is broadcast by a company based out of where?,Dubai,Asia Media Group,0,0.0,0,0,0.5771994590759277,32,1,Asia Media Group
+Tritonia and Phyteuma are both names for a what of plants?,genus,Plant,0,0.0,1,1,0.5744194984436035,32,1,Phyteuma
+what type of media does Ratatouille and PlayStation 3 have in common?,video game,Game,0,0.6666666666666666,0,1,0.5764560699462891,32,1,Ratatouille (video game)
+Pierre Benjamin Monteux conducted the world premiere of which play by Maurice Ravel?,Daphnis et Chloé,"World premiere of Maurice Ravel's ""Boléro""",0,0.0,0,1,0.5054967403411865,32,1,Pierre Monteux
+What was the code name of The landing barge primarily used to provide hot meals to the landing crew?,Operation Neptune,"Landing Barge, Kitchen (LBK)",0,0.0,0,1,0.5766294002532959,32,1,"Landing Barge, Kitchen"
+Which musician was a member of the rock band Silverchair and signed under Eleven: A Music Company?,Daniel Paul Johns,Chris Joannou,0,0.0,0,0,0.578690767288208,32,1,Chris Joannou
+How many times has the author of Negotiating with the Dead been shortlisted for the Booker Prize ?,five times,1,0,0.0,0,0,0.22334718704223633,32,1,Nina Bawden
+Does Erodium or Cymbidium include more species?,Erodium,Erodium or Cymbidium,0,0.5,0,0,0.7064447402954102,32,1,Cymbidium elegans
+"Between Wilkes-Barre/Scranton International Airport and Long Island MacArthur Airport, which airport is owned by a higher government?",Wilkes-Barre/Scranton International Airport,Government-owned airport,0,0.4,1,1,0.5758967399597168,32,1,Wilkes-Barre/Scranton International Airport
+"Who achieved more academically, Andrea Martin or Mark Hoplamazian? ",Mark S. Hoplamazian,Andrea Martin or Mark Hoplamazian,0,0.5,1,1,0.5739340782165527,32,1,Mark Hoplamazian
+"In the 2004 United States senate election, re-election was won by what American plitician who was first elected in 1998, defeating what three-term Republican incumbent?",Al D'Amato,Chuck Schumer,0,0.0,1,1,0.28228282928466797,32,1,Chuck Schumer
+Are Ian Brown and Dee Snider both actors?,no,"Yes, both Ian Brown and Dee Snider are actors.",0,0.0,0,1,0.5741417407989502,32,1,Dee Snider
+"Charles Scribner's Sons publishes the books of what author whose books cover subjects such as the Cold War, mathematics, politics, and economics, and global terrorism?","Donald Richard ""Don"" DeLillo",American author,0,0.0,0,1,0.5753045082092285,32,1,Charles Scribner's Sons
+What conference does the team that drafted Derrick Hamilton in 2004 belong to?,National Football Conference (NFC) West,Big 12 Conference,0,0.25,0,0,0.5464601516723633,32,1,Big 12 Conference
+Blue Dwarf is what type of online text-based role-playing game?,play-by-post role-playing game,Text-based RPG,0,0.0,1,1,0.5893754959106445,32,1,Blue Dwarf roleplaying game
+"What concert hall is located on the northern edge or South Kensington, London, and had songs chosen from a number of concerts there?",Royal Albert Hall,Royal Albert Hall,1,1.0,1,1,0.26827073097229004,32,1,Royal Albert Hall
+"Which  American politician and lawyer contested in San Francisco mayoral election, 2003",Matthew Edward,Willie Brown,0,0.0,0,1,0.5747871398925781,32,1,"San Francisco mayoral election, 2003"
+What province is the city where Matts (Matti) Wiktor Hoikka was a blacksmith and politician?,"Finland's northernmost province, Lapland",Arctic Circle,0,0.0,0,1,0.5031924247741699,32,1,Matti Hoikka
+"Caprice No. 5 was composed by what Italian violinist, guitarist, and composer, who was the most celebrated violin virtuoso of his time?",Niccolò (or Nicolò) Paganini,Niccolò Paganini,0,0.6666666666666666,0,1,0.5763237476348877,32,1,Caprice No. 5 (Paganini)
+The German who is credited with inventing the V-2 rocket and Saturn V was also a supervisor of what NASA program?,Applications Technology Satellites,Wernher von Braun,0,0.0,0,1,0.5763034820556641,32,1,Wernher von Braun
+"What football club was owned by the singer of ""Grow Some Funk of Your Own""?",Watford Football Club,Elton John,0,0.0,0,1,0.5752606391906738,32,1,Grow Some Funk of Your Own
+"Between Frederick King Keller and Ian Schneider, which filmmaker had more diverse job experiences?",Frederick King Keller,Keller had more diverse job experiences.,0,0.2222222222222222,0,1,0.35561060905456543,32,1,Ian Schneider
+Where are Abbey Clancy and Peter Crouch from?,England,England,1,1.0,0,0,0.5412123203277588,32,1,Sean Clancy
+Roger O. Egeberg was Assistant Secretary for Health and Scientific Affairs during the administration of a president that served during what years?,1969 until 1974,1945-1953,0,0.0,0,1,0.5753893852233887,32,1,Roger O. Egeberg
+"Where is the American Hockey League, that Dan Frawley played in, located?",United States and Canada,AHL,0,0.0,1,0,0.36951375007629395,32,1,List of AHL seasons
+Valuair was acquired in 2005 by a low-cost airline based where?,in Singapore,Singapore,0,0.6666666666666666,0,1,0.2817361354827881,32,1,Valuair
+"Who won more Grand Slam Titles, Liezel Huber or Billie Jean King?",Billie Jean King,"Huber won 2 titles, King won 6.",0,0.2,0,1,0.5756561756134033,32,1,Liezel Huber
+ The Type 90 tank built by Mitsubishi Heavy Industries is to be superseded by what generation of main battle tank of the Japanese Ground Self Defense Force?,4th,Type 90,0,0.0,0,1,0.5774190425872803,32,1,Type 10
+"Who was the  ""King of Denmark, the Vends and the Goths, elected King of Norway's"" brother?",king John of Denmark,Frederick I of Denmark,0,0.5,0,1,0.5762648582458496,32,1,Frederick I of Denmark
+"Howard Bilerman produced an album for which songwriter from Athens, Georgia?",Vic Chesnutt,"Athens, Georgia",0,0.0,0,1,0.2969939708709717,32,1,Howard Bilerman
+When was the second album by Jason Daunt's band released?,"May 4, 2004",1998,0,0.0,0,1,0.4723069667816162,32,1,Flaw (band)
+What movie genre did Emmanuelle Vaugier play a supporting role in?,satirical erotic romantic comedy,Film,0,0.0,0,0,0.5747802257537842,32,1,Painkiller Jane (film)
+What company operates in Switzerland and is part of the name of an award Gene Hobbs won?,Rolex,Danby (appliances) is affiliated with manufacturers in Switzerland.,0,0.0,0,0,0.576200008392334,32,1,Danby (appliances)
+Is the building located at 200 West Street taller than the one at 888 7th Avenue?,yes,No,0,0.0,0,1,0.4743235111236572,32,1,888 7th Avenue
+Rossiya Airlines in located in the largest what on earth?,largest country,Rossiya Airlines,0,0.0,0,1,0.3937404155731201,32,1,Rossiya Airlines
+Luke Null is an actor who was on the program that premiered its 43rd season on which date?,"September 30, 2017","Luke Null was on the program that premiered its 43rd season on September 5, 2017.",0,0.2222222222222222,0,0,0.5024709701538086,32,1,Will (TV series)
+What are both Jack Rabbit and Leap-The-Dips made of?,wooden,"Steel, wood",0,0.0,0,1,0.47376036643981934,32,1,Jack Rabbit (Seabreeze)
+Who is the Mexican actor that starred in Sex and Breakfast?,Eduardo Kuno Becker Paz,Mexican actor,0,0.0,0,1,0.575171709060669,32,1,Sex and Breakfast
+What type of profession does Jonah Meyerson and Alison Pill have in common?,actor,Child actor,0,0.6666666666666666,0,1,0.5773897171020508,32,1,Alison Pill
+"Which city has a higher population, Shanghai or Hengyang?",Shanghai,Shanghai has a higher population than Hengyang.,0,0.25,0,1,0.44463515281677246,32,1,Hengyang
+IS Paul Sloane noted for directing more musicals than  Jacques Demy,no,Yes,0,0.0,1,1,0.5609831809997559,32,1,Paul Sloane (director)
+"Which company is based in Kentucky, Vocelli Pizza or Fazoli's?",Fazoli's,Vocelli Pizza,0,0.0,1,1,0.5730085372924805,32,1,Fazoli's
+The Polar Bear and Daiquiri are both examples of what?,cocktails,Polar bear and Daiquiri,0,0.0,0,0,0.35062336921691895,32,1,Polar bear
+Are Wolfgang Becker and Paul Andrew Williams both film directors?,yes,"Yes, Wolfgang Becker and Paul Andrew Williams are both film directors.",0,0.16666666666666669,0,1,0.566929817199707,32,1,Wolfgang Becker
+Is The Devils of Loudun and Maskarade both operas?,yes,"Yes, both are operas.",0,0.4,0,0,0.3515503406524658,32,1,The Devils of Loudun
+What do Park So-yeon and Michael Crafter have in common?,vocalist,Music industry professionals,0,0.0,1,1,0.5690603256225586,32,1,Michael Crafter
+"Who has written more than 300 papers, Semyon Aranovich Gershgorin or Pavel Alexandrov?",Pavel Sergeyevich Alexandrov,Semyon Aranovich Gershgorin,0,0.0,1,1,0.5667386054992676,32,1,Pavel Alexandrov
+What was the founding year of the county where Weber's Store is located?,1905,1865,0,0.0,0,1,0.5381622314453125,32,1,Weber's Store
+What are some other areas that share a common deer species with the forests of Mara and Mondrem?,"New Zealand, Canada, the United States, the Falkland Islands, and Peru.",Deer species,0,0.0,0,1,0.5665237903594971,32,1,Forests of Mara and Mondrem
+Who directed both Last Days and Point Break?,Kathryn Bigelow,The directors of both films are Kathryn Bigelow.,0,0.4,0,1,0.3493537902832031,32,1,Point Break
+"Which Canadian rock band released a song called ""Counterparts"" and had a drummer who was inducted into the Modern Drummer Hall of Fame?",Rush,Rush,1,1.0,1,1,0.20723271369934082,32,1,Nobody's Hero
+James Cromwell stars in which movie that chronicles the life of Thoroughbred race horse?,Secretariat,Thoroughbred race horse,0,0.0,0,1,0.5674111843109131,32,1,James Cromwell
+Are Hot Rod and The Memory of Our People both magazines?,yes,"Yes, both are magazines.",0,0.4,0,1,0.5657382011413574,32,1,The Memory of Our People
+What star if the Burbs was Canadian?,"Richard ""Rick"" Ducommun",Canadian actor,0,0.0,0,1,0.23500871658325195,32,1,The 'Burbs
+What are the professions of Tom Johnston and Daryl Palumbo?,American musician,"Tom Johnston, Daryl Palumbo",0,0.0,1,1,0.566612720489502,32,1,Daryl Palumbo
+"Which came to market first, ""Hey Pa! There's a Goat on the Roof"" or ""Poleconomy""",Hey Pa! There's a Goat on the Roof,"""Hey Pa! There's a Goat on the Roof"" came to market first.",0,0.8,0,1,0.5827667713165283,32,1,Hey Pa! There's a Goat on the Roof
+What Japanese fashion label was founded by the creator of Dover Street Market?,Comme des Garçons,Comme des Garçons,1,1.0,1,1,0.5679452419281006,32,1,Dover Street Market
+A journal to which Jim Rasenberger contributes is the official journal of an institute located in what city?,"Washington, D.C.",New York City,0,0.0,1,1,0.5678482055664062,32,1,Jim Rasenberger
+"Who does the previous Vice President of Production at the animation studio that is owned and operated by Viacom, currently work for?",Cartoon Network Studios,Carl Folta,0,0.0,0,0,0.5673549175262451,32,1,Carl Folta
+Are Fastbacks and Local Natives both from the same US state?,no,"Yes, both bands are from Oregon.",0,0.0,0,1,0.3791313171386719,32,1,Fastbacks
+Who is the sister of Princess Zein and the daughter of a British woman?,Princess Aisha bint Hussein,Princess Aisha bint Hussein,1,1.0,0,1,0.5658926963806152,32,1,Princess Aisha bint Hussein
+Who made a spoof of the Radiohead's fourth studio album?,The Shirehorses,Radiohead's Kid A,0,0.0,0,1,0.5669529438018799,32,1,Kid A
+"Orange is the New Black, starring Annie Golden as Norma Romano, takes place in which minimum-security federal prison?",FCI Danbury,Orange is the New Black,0,0.0,0,0,0.308485746383667,32,1,"Federal Prison Camp, Florence"
+What is the home stadium where Dai Xianrong predominantly played?,Tianhe Stadium,Dai Xianrong's home stadium is the Guangzhou Evergrande Stadium.,0,0.1818181818181818,0,1,0.5092980861663818,32,1,Dai Xianrong
+Finna Get Loose is a song by Puff Daddy and what American rapper who is also a record and film producer?,Pharrell Lanscilo Williams,Puff Daddy and Pharrell Williams.,0,0.5,0,1,0.38073039054870605,32,1,Finna Get Loose
+What novel imagines the true story of a character based on a novel by Mark Twain first published in 1884?,Shohola Falls,The Prince and the Pauper,0,0.0,0,0,0.5678367614746094,32,1,The Prince and the Pauper
+What country of origin does Eric Lucassen and Party for Freedom have in common?,Dutch,Netherlands,0,0.0,1,1,0.480299711227417,32,1,Eric Lucassen
+What was the nationality of the composer of Chaconne in F minor?,German,Italian,0,0.0,0,0,0.4231705665588379,32,1,Gaetano Donizetti
+Which country borders the Central African Republic and is south of Libya and east of Niger?,Republic of Chad,Chad,0,0.5,0,1,0.56742262840271,32,1,Chad
+Ruddles Brewery is owned by a pub retailer and brewer based in what city?,Bury St Edmunds,Greene King,0,0.0,0,1,0.5381374359130859,32,1,Ruddles Brewery
+Jing Tian was known for her role in a movie directed by who?,Ding Sheng,Answer: Zhang Yimou,0,0.0,0,1,0.5670099258422852,32,1,Jing Tian
+"Who was the original recording artist of the song which was chosen over If You've Got Trouble for the Beatles' ""Help!"" film?",Buck Owens,The song was written by Lennon–McCartney.,0,0.0,0,1,0.35216355323791504,32,1,If You've Got Trouble
+Are both Barry Unsworth and P. G. Wodehouse from the same country?,yes,No,0,0.0,0,0,0.4945554733276367,32,1,Morality Play (novel)
+What are both Caleb Shomo and Brian Welch?,singer,Caleb Shomo and Brian Welch are both American ski jumpers.,0,0.0,0,0,0.5666165351867676,32,1,Brian Welch (ski jumper)
+What is the main nickname of the professional association football club where Ewan Fenton spent thirteen seasons?,"""the Seasiders""",Ewan Fenton,0,0.0,0,0,0.5676267147064209,32,1,List of Colchester United F.C. seasons
+"Of the retired tennis players Ross Case and Slobodan Živojinović, which player reached a higher career-high singles ranking?",Ross Case,Slobodan Živojinović,0,0.0,1,1,0.5673937797546387,32,1,Ross Case
+What novel about a murderer inspired Till Lindemann's music?,Perfume,Perfume,1,1.0,1,1,0.23559212684631348,32,1,Du riechst so gut
+Where are the main administrative offices of the institute located where K. S. Babu earned his PhD in 1986?,Honolulu,Oklahoma State University,0,0.0,0,1,0.5099203586578369,32,1,K. S. Babu
+The Music Hall Guild of Great Britain and America includes a patron in which actress who had a role on EastEnders?,Anita Dobson,Brian Croucher,0,0.0,1,1,0.5680322647094727,32,1,The Music Hall Guild of Great Britain and America
+"Who was born later, Jerry Garcia or Joe Gooch?",Joe Gooch,Jerry Garcia was born later.,0,0.0,1,1,0.5649073123931885,32,1,Joe Gooch
+Are Pothos and Tibouchina Aubl both flowering genus of plants?,yes,Yes,1,1.0,0,1,0.5388426780700684,32,1,Tibouchina
+"What is the first name of the woman who, like Tryphosa Bates-Batcheller, was criticised for being publicly tolerated as a singer due to her wealth, despite a lack of talent?",Narcissa,Tryphosa Bates-Batcheller,0,0.0,0,0,0.5686225891113281,32,1,List of songs recorded by Marina and the Diamonds
+Who was born first out of  Thomas Carr and Joyce Wieland?,Thomas Carr,Thomas Carr was born first.,0,0.5714285714285715,1,0,0.32203102111816406,32,1,Thomas Carr (publisher)
+Who voices the character that stars in Baseball Bugs?,Mel Blanc,Warren Foster,0,0.0,0,0,0.5668261051177979,32,1,His Hare-Raising Tale
+"Zhangye and Nan'an, Fujian are both located where?",People's Republic of China,"Zhangye and Nan'an, Fujian are both located in the same province.",0,0.0,1,1,0.5666990280151367,32,1,"Nan'an, Fujian"
+The 2004 romantic drama film based on Shake'spears play of the same name was produced by whom?,Julia Verdin,Warner Bros.,0,0.0,0,1,0.24281024932861328,32,1,The Merchant of Venice (2004 film)
+"Which dog breed, the Schapendoes or the Bull Terrier, has its origins in a greater number of other dog breeds?",Bull Terrier,Schapendoes,0,0.0,0,1,0.5681421756744385,32,1,Schapendoes
+Are William Kronick and Jon Turteltaub both television writers ?,no,"Yes, both are television writers.",0,0.0,0,1,0.34949660301208496,32,1,Jon Turteltaub
+Who wrote the TV serial in which Rosemary Martin played Marjorie ?,Dennis Potter.,Rosemary Martin in Marjorie,0,0.0,0,1,0.5660302639007568,32,1,Rosemary Martin
+Are Philip Cortez and Julian Castro democratic or republican?,Democratic,Democratic,1,1.0,0,0,0.3444664478302002,32,1,Rick Galindo
+What other method of extending an ice hockey game exists other than the one used in the 1932 Allan Cup?,the shootout,Overtime (ice hockey),0,0.0,0,1,0.5683441162109375,32,1,Overtime (ice hockey)
+"The non-fiction book ""Finding Chandra"" is about an affair between the victim and a congressman that holds a B.B.A from what school?",USC Marshall School of Business,Harvard Business School,0,0.5,0,1,0.2659006118774414,32,1,Finding Chandra
+Phillip Pullman's book set in a parallel universe featuring a character named Lyra Belacqua was put into audio in what year?,2002,2013,0,0.0,0,0,0.25024986267089844,32,1,Lyra Belacqua
+Both Bishop Carroll Catholic High School and Kapaun Mt. Carmel Catholic High School are located in which city in Kansas?,Wichita,"Wichita, Kansas",0,0.6666666666666666,1,1,0.567887544631958,32,1,Bishop Carroll Catholic High School
+Which singer of the Bee Gees sung a middle part of a song in which the majority was sung by Barry Gibb?,Robin Gibb,Barry Gibb,0,0.5,0,0,0.5544838905334473,32,1,You Wouldn't Know (Bee Gees song)
+"Annapolis Junction is located in what county named after  the wife of Cecilius Calvert, 2nd Baron Baltimore?","Anne Arundel County, Maryland","Howard County, Anne Arundel County, Maryland, United States.",0,0.6666666666666666,1,1,0.5542011260986328,32,1,"Annapolis Junction, Maryland"
+"What American actress starred in the 1996 television film ""Bastard Out of Carolina"" directed by Anjelica Huston?",Jena Malone,American actress,0,0.0,0,1,0.29462742805480957,32,1,Bastard out of Carolina (film)
+What 1986 drama directed by Lee Doo-yong starred Lee Mi-sook?,Mulberry,Lee Doo-yong,0,0.0,0,1,0.43841123580932617,32,1,Lee Mi-sook
+How did the singer of Pyramid rise to fame?,YouTube,He started singing professionally at 17.,0,0.0,0,0,0.37837934494018555,32,1,Alfio
+Thomas Major was the engraver to the estranged son of which monarch?,George II,King George III,0,0.4,0,1,0.5242245197296143,32,1,Thomas Major
+"Which American digital media company and news satire organization that publishes articles on international, national, and local news did the comic artist of Jim's Journal co-found?",The Onion,The Onion,1,1.0,1,1,0.23624944686889648,32,1,The Onion
+"What kind of creative artist was Howell Conant, famed for his work with Grace Kelly?",photographer,Carpenter,0,0.0,0,0,0.5665357112884521,32,1,Leslie Segrete
+During the Carnival in Rio de Janeiro who is the official singer of the samba school Mangueira?,José Bispo Clementino dos Santos,Estação Primeira de Mangueira,0,0.0,0,0,0.5702846050262451,32,1,Estação Primeira de Mangueira
+"Which film is newer, The Apple Dumpling Gang or Heavyweights?",Heavyweights,The Apple Dumpling Gang (1975) vs Heavyweights (1984),0,0.2222222222222222,0,0,0.5652289390563965,32,1,Jack Bickham
+One of the members of Dru Hill is nicknamed after which cartoon character?,Woody Woodpecker,The Amazing Adrenalini Brothers,0,0.0,0,0,0.5674540996551514,32,1,The Amazing Adrenalini Brothers
+What is the name of the national level academy for performing arts that Bhupen Hazarika won his award in 2008? ,Sangeet Natak Akademi,Sangeet Natak Akademi,1,1.0,0,1,0.5681376457214355,32,1,Sangeet Natak Akademi
+"Which was published or broadcast first, The Graveyard Book of Phineas and Ferb?",Phineas and Ferb,The Graveyard Book of Phineas and Ferb was published first.,0,0.4615384615384615,1,0,0.5656001567840576,32,1,Flop Starz
+How do the Peter Laufer books Forbidden Creatures and No Animals Were Harmed differ in their focus on animals?,his own opinions changed,The books differ in their focus on animals.,0,0.0,0,1,0.5667600631713867,32,1,Forbidden Creatures
+"The band who released the debut album ""Tinted Windows"" had their first performance in what city?",Tulsa,New York,0,0.0,0,1,0.2216348648071289,32,1,Tinted Windows (album)
+What genre was the movie that Austin Nichols was in with Kirsten Dunst?,romantic comedy,Drama,0,0.0,0,0,0.5684916973114014,32,1,Midnight Special (film)
+"SWX Right Now airs on the station that broadcasts on what channel in Billings, Montana?",8,SWX Right Now airs on KXLY.,0,0.0,0,0,0.31644392013549805,32,1,KEWF
+"Who was born first, Sarah Jacobson or Arthur Hiller?",Arthur Hiller,Sarah Jacobson was born first.,0,0.0,0,1,0.5670320987701416,32,1,Sarah Jacobson
+"Beyond the Hoax: Science, Philosophy, and Culture, is by what professor of mathematics at University College London?",Alan David Sokal,Alan David Sokal,1,1.0,1,1,0.5701074600219727,32,1,Alan Sokal
+"Which is bigger, Griffon Bruxellois or English Mastiff?",English Mastiff,Griffon Bruxellois is smaller than English Mastiff.,0,0.4444444444444445,1,1,0.523590087890625,32,1,English Mastiff
+Alex da Kid worked on an a track with Eminem released in what year?,2010,2009,0,0.0,0,0,0.25040483474731445,32,1,Love the Way You Lie (Part II)
+Who was the biological father of the emperor who built the Nemi Ships?,Germanicus,Emperor,0,0.0,0,1,0.5671100616455078,32,1,Nemi ships
+Is Mary Pierce or Gustavo Kuerten the older tennis player?,Mary Pierce,Mary Pierce or Gustavo Kuerten,0,0.5714285714285715,0,1,0.42240166664123535,32,1,Gustavo Kuerten
+What age was Georgia Middleman when she started singing in the seventh-most populated city in the United States?,ten,"Born in Texas, sang at age 10.",0,0.0,1,1,0.3365187644958496,32,1,Georgia Middleman
+One of the directors of Mediastan is well-known for founding what organisation in 2006?,WikiLeaks,Julian Assange,0,0.0,0,1,0.2213587760925293,32,1,Mediastan
+Are Alexander Kluge and Sidney Salkow of the same nationality?,no,"Yes, they are both German.",0,0.0,0,1,0.566403865814209,32,1,Alexander Kluge
+Who beacme a star as a comic book character created by Gerry Conway and Bob Oksner?,Megalyn Echikunwoke,Vixen,0,0.0,0,1,0.26465320587158203,32,1,Vixen (comics)
+"In what category did the composer of ""Elliot, a Soldier's Fugue"" win a Tony Award in 2008?",for Best Musical,2008 Tony Award,0,0.0,0,0,0.5679576396942139,32,1,Michael Tippett
+"What movie studio produced The Benchwarmers, which starred Rob Schneider and Napoleon Dynamites lead actor, Jon Heder?",Revolution Studios,The movie studio that produced The Benchwarmers is: Buena Vista Pictures.,0,0.0,0,1,0.4527778625488281,32,1,The Benchwarmers
+Socialist Thought and Practice was a magazine that was regarded as an important veicle for a form of management based on what?,self-directed work processes,Marxist theory,0,0.0,0,1,0.5379536151885986,32,1,Socialist Thought and Practice
+"When is the national league which the Manchester United is participating in, set to end in 2018?",13 May 2018,2018,0,0.5,0,1,0.5683116912841797,32,1,2017–18 Manchester United F.C. season
+"What studio helped produce both Return to Never Land and McFarland, USA?",Walt Disney Pictures,Disney,0,0.5,0,1,0.4948570728302002,32,1,Return to Never Land
+"Brigadier Stanley James Ledger Hill was attached to the command post of which senior British Army officer born on July 10, 1886?",Lord Gort,Brigadier Hill was attached to the command post of Herbert Plumer.,0,0.0,0,0,0.5687923431396484,32,1,"Herbert Plumer, 1st Viscount Plumer"
+What kind of building did the Romans use that is still the most common architectural style for churches in Europe and America?,basilica,Romanesque,0,0.0,0,1,0.5678997039794922,32,1,Basilica
+Which college football team for the University of Oregon did Enoka Lucas played for ,The Oregon Ducks,Enoka Lucas played for the University of Oregon football team.,0,0.30769230769230765,0,0,0.33077383041381836,32,1,1910 Oregon Agricultural Aggies football team
+"How long did the state exist whose army ransacked and looted the city, Halebidu, twice in the 14th century ?",320 years,Muslim invaders from northern India and the Arabian Peninsula.,0,0.0,0,0,0.568901538848877,32,1,Hoysaleswara Temple
+What type of writing did both Richard Harding Davis and Harry Stephen Keeler write?,fiction,Fiction and drama,0,0.5,1,1,0.5689442157745361,32,1,Richard Harding Davis
+"Who has a wider scope of profession, Hrag Vartanian or Hovsep Pushman?",Hrag Vartanian,Hovsep Pushman,0,0.0,0,1,0.5697381496429443,32,1,Hovsep Pushman
+"What type of group beat Sheryl Crow's ""All I Wanna Do"" on the ""Billboard"" Hot 100? ",American R&B vocal group,Rock,0,0.0,0,0,0.5705451965332031,32,1,Strong Enough (Sheryl Crow song)
+Is The Moon-Spinners and Oceans both documentaries?,no,"Yes, both are documentaries.",0,0.0,0,1,0.567324161529541,32,1,Oceans (film)
+"Which park is larger of the two, Doñana National Park or Timanfaya National Park?",Doñana National Park,Doñana National Park is larger.,0,0.7499999999999999,1,1,0.5679471492767334,32,1,Doñana National Park
+"What film came out first, All the Marbles or What Ever Happened to Baby Jane?",What Ever Happened to Baby Jane?,All the Marbles,0,0.0,0,1,0.5687992572784424,32,1,...All the Marbles
+What is the name of the process used by a company that is located in New Jersey and invented Hexachrome?,CMYKOG process,Pantone Hexachrome,0,0.0,0,1,0.567812442779541,32,1,Hexachrome
+What was the population of the town as of 2000 where the historic tugboat Catawissa is located?,"8,515","Population of Waterford, NY as of 2000.",0,0.0,0,1,0.3944573402404785,32,1,Catawissa (tugboat)
+"Victor Varnada directed Twisted Fortune, which starred which brother of Eddie Murphy?",Charlie Murphy,"Eddie Murphy, Charlie Murphy, Eddie Murphy, Charlie Murphy",0,0.4,1,1,0.4807448387145996,32,1,Twisted Fortune
+What was Rosario Dawson of Josie and the Pussycats film debut,"She made her film debut in the 1995 teen drama ""Kids"".",2001,0,0.0,0,1,0.5661849975585938,32,1,Rosario Dawson
+Atlas Shrugged was a film based on the books by a proponent of what philosophy?,Objectivism,Objectivism,1,1.0,0,0,0.5666825771331787,32,1,Harmon Kaslow
+"What kind of dinosaur does Raymond Ochoa voice in the Pixar film ""The Good Dinosaur""?",Apatosaurus,Voice actor,0,0.0,0,1,0.532106876373291,32,1,Raymond Ochoa
+Who was the American congressman whose actions led to a CIA program to arm Jihadi warriors in Afghanistan in the 1980's?,Charlie Wilson,Brad Wenstrup,0,0.0,0,0,0.5669441223144531,32,1,Brad Wenstrup
+What is the stage name of the former pornographic actress born in 1981 that co-hosted the 26th AVN Awards?  ,Belladonna,Adult Film Star,0,0.0,0,0,0.27938389778137207,32,1,30th AVN Awards
+"Which of the following bands is considered ""one of the most accomplished and creative Christian bands of the '90s"": Poor Old Lu or Shudder to Think?",Poor Old Lu,Shudder to Think,0,0.0,1,1,0.5679111480712891,32,1,Poor Old Lu
+Which member of The New Russian School was both a doctor and a chemist besides being a composer?,Alexander Porfiryevich Borodin,Borodin,0,0.5,0,1,0.5680680274963379,32,1,Alexander Borodin
+"The ""civic rally cross"" was sold alongside what other model sold exclusively in Japan at Honda Verno dealerships? ",Honda Ballade,Honda Civic Type R,0,0.3333333333333333,0,0,0.5519211292266846,32,1,Honda Capa
+Crash is similar to what 16th century British card game in the sense that there is no betting?,"In Crash, there is no betting, as in Brag",No betting.,0,0.3636363636363636,1,1,0.5674750804901123,32,1,Crash (card game)
+The Panel with striding lion  was one of many that lined the way north of the gate to the inner city of what location?,Babylon,Babylon,1,1.0,1,1,0.5687673091888428,32,1,Panel with striding lion
+Where does the story take place in 1988 film The Moderns?,1926 Paris,"Paris, 1926",0,1.0,1,1,0.5685596466064453,32,1,The Moderns
+When Copsi was made earl of Northumbria he went back to reside in a town at the confluence of which two rivers?,Ouse and Foss,Northumbrian town at confluence of two rivers,0,0.0,0,1,0.5680863857269287,32,1,Copsi
+The physicist who is responsible for identifying the Rabi cycle won what award?,Nobel Prize,Nobel Prize,1,1.0,0,1,0.496091365814209,32,1,Rabi cycle
+"Which is founded by a president, University of Washington or University of Virginia?",University of Virginia,University of Washington,0,0.6666666666666666,1,1,0.5679571628570557,32,1,University of Virginia
+The title Grigory Drozd lost in May 2016 was won by a boxer who made his acting debut in what film?,"""Creed""",Actor,0,0.0,0,1,0.22178196907043457,32,1,Grigory Drozd
+The Soul of a Butterfly is an autobiography of a professional boxer that was born in what year?,1942,1964,0,0.0,0,1,0.2502717971801758,32,1,The Soul of a Butterfly
+"""52nd Street"" is a 1978 album that earned two Grammy Awards for which piano-playing songwriter?",Billy Joel,Billy Joel,1,1.0,1,1,0.5679004192352295,32,1,52nd Street (album)
+Are Chlidanthus and Maianthemum both flowering plants?,yes,Yes,1,1.0,0,1,0.4674515724182129,32,1,Chlidanthus
+What ABC television series was inspired by a 2011 film and cast Dominic Cooper as young Howard Stark?,Agent Carter,ABC television series,0,0.0,1,1,0.5681540966033936,32,1,Agent Carter (TV series)
+A Wind in the Door is part of a series written by who?,Madeleine L'Engle,Madeleine L'Engle,1,1.0,1,1,0.5684547424316406,32,1,A Wind in the Door
+What year did Guns N Roses perform a promo for a movie starring Arnold Schwarzenegger as a former New York Police detective?,1999,1994,0,0.0,0,0,0.25133514404296875,32,1,True Lies
+What running back ended his career in 2006 and was one of the rushers Matt O'Dwyer blocked for?,Curtis Martin,Rusher,0,0.0,0,1,0.5677404403686523,32,1,Matt O'Dwyer
+Bobby Bowden coached which former Toronto Blue Jays minor league baseball player?,Chris Weinke,Bobby Bowden,0,0.0,0,0,0.5660660266876221,32,1,List of Toronto Blue Jays minor league affiliates
+The Shrewsbury & Newport Canals Trust promotes the restoration of what navigable canal in England?,Shropshire Union Canal,Shrewsbury & Newport Canals Trust,0,0.0,0,1,0.5684092044830322,32,1,Shrewsbury &amp; Newport Canals Trust
+"Parafield, South Australia is very near the airport and what campus of the University of South Australia?",Mawson Lakes,Parafield Airport,0,0.0,1,1,0.5680170059204102,32,1,Parafield Airport
+"Which facility was founded in Missouri, Discovery Zone or Valentino's?",Discovery Zone,Discovery Zone,1,1.0,0,1,0.5686724185943604,32,1,Valentino's
+What is this subfamily within the cat family Felidae named by Reginald Innes Pocock that is descendant of Pseudaelurus?,Pantherinae,Pantherinae,1,1.0,1,1,0.5673823356628418,32,1,Pantherinae
+"What is the best known novel from the author of ""Laura Warholic""?","""Darconville’s Cat""",Alexander Theroux,0,0.0,0,1,0.49472880363464355,32,1,Laura Warholic
+"What notable radio personality was born in North Bend, Oregon?",Delilah Luke,Delilah Rene,0,0.5,0,1,0.5674138069152832,32,1,Delilah (radio host)
+What occupations do Toshi and Emily Haines share?,singer and songwriter,"Lead singer, keyboardist",0,0.3333333333333333,1,1,0.2638273239135742,32,1,Emily Haines
+What Olympic medal did the opponent of Crawford Ashley for the World Boxing Association (WBA) World super middleweight title win in 1984?,a silver medal,1984,0,0.0,0,0,0.566338300704956,32,1,Scott Dixon (boxer)
+"What is the name of this suburb within the Central Coast Council local government area, where Tessa, of Microwave Jenny, grew up?","Umina Beach, New South Wales","Phegans Bay, New South Wales",0,0.6,0,0,0.5680532455444336,32,1,"Phegans Bay, New South Wales"
+Thomas Parker Sanborn was a model for the protagonist in the only novel by a poet originally from what country?,Spain,American,0,0.0,0,1,0.567176342010498,32,1,Thomas Parker Sanborn
+What is the main difference between the game Plateau and the game Colt Express?,Colt Express is a railway-themed,Plateau vs Colt Express,0,0.4444444444444445,0,0,0.567131757736206,32,1,Battlezone (1998 video game)
+"What was a series of battles during the Revolutionary War, for control of New York City and the state of New Jersey, fought on October 28, 1776 near White Plains, New York?",New York and New Jersey campaign,Battle of White Plains,0,0.0,1,1,0.5688836574554443,32,1,Battle of White Plains
+Do the bands 3OH!3 and Moonbabies have the same number of members?,yes,"Yes, they do.",0,0.5,0,1,0.29369044303894043,32,1,Moonbabies (band)
+"Before going to the London School of Theology, John Burges spent six years working for a company headquartered in what country?",the Netherlands,England,0,0.0,0,0,0.5681800842285156,32,1,John Burges
+"Who was the director of the 2007 American action film starring the actress, professionally known as Maggie Q.?",Len Wiseman,Director of Balls of Fury,0,0.0,0,0,0.2788047790527344,32,1,Balls of Fury
+What kind of beverage does Planter's Punch and Black Velvet have in common?,cocktail,Bitters,0,0.0,1,1,0.5687642097473145,32,1,Planter's Punch
+Which movie came out first Muppet Treasure Island or Million Dollar Arm ?,Muppet Treasure Island,Muppet Treasure Island,1,1.0,0,0,0.5318412780761719,32,1,Rinku Singh
+"Approximately how many locations is BJ's Wholesale Club operating in, as of early 2008?",650 locations,Approximately 200 locations.,0,0.4,0,1,0.2934565544128418,32,1,BJ's Wholesale Club
+Which market town in Lancashire is part of the BB postcode area?,Burnley,Blackburn,0,0.0,1,1,0.33640122413635254,32,1,BB postcode area
+An American Werewolf in Paris was a partial sequel to the comedy film starring whom?,"David Naughton, Jenny Agutter and Griffin Dunne",American Werewolf in London,0,0.0,0,1,0.5684909820556641,32,1,An American Werewolf in Paris
+Who was the fourth son of the lord of the Seventeen Provinces of the Netherlands in 1555?,Diego Félix of Austria,Philip II of Spain,0,0.25,0,1,0.56815505027771,32,1,Philip II of Spain
+"What three time Tony nominee composed ""Ghost Quartet""?",Dave Malloy,Dave Malloy,1,1.0,0,1,0.5316336154937744,32,1,Dave Malloy
+Were Triumph of the Will and The End of America both made in the same year?,no,No,1,1.0,0,1,0.5081846714019775,32,1,Triumph of the Will
+"Maria Radu is best known for winning the 3000 meters at which Edmonton, Alberta, sporting event? ",1983 Summer Universiade,"Edmonton, Alberta, 1983 Summer Universiade",0,0.7499999999999999,0,1,0.3936636447906494,32,1,1983 Summer Universiade
+"Which film was produced first, Dangal or The Man from Snowy River II?",The Man from Snowy River II,Dangal,0,0.0,1,0,0.5676581859588623,32,1,Bruce Rowland
+William Novac co-wrote the memoir of what American retired professional basketball player who is current president of basketball operations for the Los Angeles Lakers?,"Earvin ""Magic"" Johnson Jr.",Charles Barkley,0,0.0,0,0,0.48155879974365234,32,1,Charles Barkley
+What pistol cartridge was the original cartridge for the service pistol produced by a German arms manufacturer between 1896 and 1937?,7.63×25mm Mauser,Deutsche Waffenfabrik,0,0.0,0,0,0.5682060718536377,32,1,7.65×21mm Parabellum
+"Which person is known for playing in punk bands, Keith Morris or Rome Ramirez?",Keith Morris,Keith Morris or Rome Ramirez,0,0.5714285714285715,1,1,0.5669724941253662,32,1,Keith Morris
+The M104 155mm Projectile was specifically designed to carry about 11.7 pounds of what prototypical substance?,mustard gas,Chemical artillery shell,0,0.0,0,1,0.567739725112915,32,1,M104 155mm Cartridge
+What religion was the martyr to whom the Lady of the Valey statue is dedicated?,Christian,Christian,1,1.0,0,0,0.5677125453948975,32,1,Theonestus of Vercelli
+Futbolita has interviewed what Spanish Professional footballer who plays as a striker for New York City FC?,David Villa,David Villa,1,1.0,1,1,0.3079051971435547,32,1,David Villa
+What subsidiary of the largest airline of the Republic of China (Taiwan) has a main hub at Taichung Airport?,Mandarin Airlines,Taichung Airport,0,0.0,0,1,0.5666823387145996,32,1,China Airlines
+What was the estimated population of the city that Luis Villalta Aquino was from in 2012?,"102,984","1,000,000",0,0.0,0,1,0.5672116279602051,32,1,Luis Villalta
+"What player mentioned in ""The Breaks of the Game"" was inducted into the Naismith Memorial Basketball Hall of Fame on May 10, 1993?",Bill Walton,Lindsay Gaze,0,0.0,0,0,0.5683207511901855,32,1,Lindsay Gaze
+The eighth-longest rollercoaster in the world is located in what theme park?,Disney California Adventure,California Screamin',0,0.4,0,1,0.5678198337554932,32,1,California Screamin'
+"What are the publishing years of this American and New York based film magazine published by Hachette Filipacchi Media U.S., where April Bernard worked as senior editor?",between 1987 and 2010,1990s-2000s,0,0.0,0,0,0.3950009346008301,32,1,Home (magazine)
+"Which American character actor who starred on the television series ""Stargate SG-1"" (1997–2007) and appeared in ""Episode 8"" of ""Twin Peaks"" as a guest star?",Don S. Davis,American character actor,0,0.0,0,0,0.5690453052520752,32,1,Lost City (Stargate SG-1)
+Which lead actor/actress in War Chhod Na Yaar has also acted in Bengali and English-language films?,Soha Ali Khan,Farhan Akhtar,0,0.0,0,1,0.27900195121765137,32,1,War Chhod Na Yaar
+Mutton Lane Cemetery is located in a town 13 mi north of where?,London,Mutton Lane Cemetery is located in a town 13 mi north of Nashville.,0,0.0,0,0,0.5665462017059326,32,1,Old Corinth Cemetery
+"The actress that played the leading role in the independent film ""A Perfect Ending"" also stars with John Bregar in a 2008 film directed by who?",Douglas Jackson,John Bregar,0,0.0,0,1,0.5675561428070068,32,1,Barbara Niven
+"Which record label released Van Morrison's ""I've Been Working"" on the album ""His Band and the Street Choir""?",Warner Bros,UMG,0,0.0,0,1,0.22114944458007812,32,1,I've Been Working
+"Who is older, Gabe Saporta or John S. Hall?",John S. Hall,Gabe Saporta is older.,0,0.0,0,1,0.5667197704315186,32,1,Gabe Saporta
+What are the colors of the tricolour flag that was adopted in 1919?,"green (at the hoist), white and orange","Red, White, Blue",0,0.2,0,1,0.3220798969268799,32,1,Tricolour (flag)
+What profession was both John Updike and Bret Easton Ellis ?,short story writer,Novelist,0,0.0,0,1,0.5234925746917725,32,1,John Updike
+"Which sister of Margarita ""Peggy"" Schuyler Van Rensselaer is sometimes called Betsey?",Elizabeth Hamilton,Betsey Van Rensselaer,0,0.0,0,1,0.5682792663574219,32,1,Peggy Schuyler
+Whataburger in Richardson Square is loacted in what city and state?,"Richardson, Texas",Richardson Square,0,0.5,0,1,0.4659843444824219,32,1,Richardson Square Mall
+In which year did the artist who wrote Hyperreal release his debut studio album?,2012,2017,0,0.0,0,1,0.25714635848999023,32,1,Hyperreal (song)
+"What German philosopher, economist and political theorist was Jakob Lukas Schabelitz a friend and associate of?",Karl Marx,Karl Marx,1,1.0,1,1,0.5671088695526123,32,1,Karl Marx
+What is the name of one the Italian Navy's new warship?,"PPA, Pattugliatore Polivalente d'Altura",San Marco Marine Brigade,0,0.0,0,0,0.5343198776245117,32,1,San Marco Marine Brigade
+What was the event where Jacob Minah had his personal best also known as?,XXIV Summer Universiade,Decathlon,0,0.0,0,1,0.5677642822265625,32,1,Jacob Minah
+What army did the namesake of the ship launched as the München in 1930 fight in during the American Revolutionary War?,Continental Army,American Revolutionary War,0,0.0,0,0,0.5668919086456299,32,1,SS Middlebury Victory
+Victor Koman's Ph.D.  in Information Technology was conferred by a university located in which city ?,Minneapolis,Illinois Institute of Technology,0,0.0,0,0,0.5687603950500488,32,1,Illinois Institute of Technology
+Are both Pomeranian and Sporting Lucas Terrier named after a particular person?,no,"Yes, both breeds are named after a person.",0,0.0,0,1,0.5671143531799316,32,1,Sporting Lucas Terrier
+"What language, also known as the Amazigh, is part of Siwa Oasis?",Berber,Amazigh,0,0.0,1,1,0.567241907119751,32,1,Siwa Oasis
+What English campaigner for the suffragette movement did Angela Down portray? ,Sylvia Pankhurst,Sylvia Pankhurst,1,1.0,1,1,0.3371109962463379,32,1,Sylvia Pankhurst
+"Which of the case was held in a higher ranking court, South Dakota v. Dole or Rogers v. Okin?",South Dakota v. Dole,South Dakota v. Dole,1,1.0,1,1,0.5687158107757568,32,1,South Dakota v. Dole
+"Which plant genus is part of a family with a longer name, Morning glory or Rothmannia?",Morning glory,Morning glory,1,1.0,0,1,0.56791090965271,32,1,Rothmannia
+"What former city, now the fourth-largest Russian city, was the Belarusian State Technological University evacuated to in 1941?",Sverdlovsk,Belarusian Technological Institute,0,0.0,0,0,0.5673186779022217,32,1,Yuri Puntus
+Were both Monkey Kingdom and Anaganaga O Dheerudu connected with Disney?,yes,"Yes, both were connected with Disney.",0,0.2857142857142857,0,0,0.3791360855102539,32,1,Zokkomon
+"Kurt Fuller from Stockton, CA appeared in which American Detective Comedy Drama television series created by Steve Franks?",Psych is an American detective comedy-drama,Kurt Fuller,0,0.0,1,1,0.5667436122894287,32,1,Psych
+"Which Royal Air Force is located in a town that had a population of 2,841 on 15 April 2012?",Mount Pleasant,Royal Air Force,0,0.0,0,0,0.5676493644714355,32,1,Burnley
+"Do the University of Florida and University of Texas System combine to have both a 2000 acre campus and over 216,000 students?",yes,"Yes, they do.",0,0.5,0,1,0.29364681243896484,32,1,University of Texas System
+In which part of Attica was the battle of Marathon in 490 BC fought?,northeastern,Attica,0,0.0,0,0,0.5675151348114014,32,1,Battle of Marathon
+Do both Icehouse pieces and El Grande come from the same game?,no,Yes,0,0.0,0,1,0.4084155559539795,32,1,El Grande
+Who was the older brother of the leader who asked Juan Romero de Figueroa to remain at his parish?,Joseph I,Juan Romero de Figueroa was a Spanish Roman.,0,0.0,0,1,0.5674331188201904,32,1,Juan Romero de Figueroa
+What bluegrass singer provides vocals for a song on the album which was released in September 2013 through PRMD Music?,Dan Tyminski,Danny Worsnop,0,0.0,0,0,0.5664472579956055,32,1,From Death to Destiny
+ Charice is the first international studio album of a singer who rose to popularity through what?,YouTube,International pop singer,0,0.0,0,1,0.49622559547424316,32,1,Charice (album)
+A Troll in Central Park and All Dogs Go to Heaven were both directed by which person?,Don Bluth,Don Bla,0,0.5,0,1,0.5669877529144287,32,1,A Troll in Central Park
+The runner-up in The Celebrity Apprentice 2 has written an autobiography titled what?,"""How I Raised, Folded, Bluffed, Flirted, Cursed, and Won Millions at the World Series of Poker""",The runner-up,0,0.1111111111111111,0,1,0.42365431785583496,32,1,The Apprentice (U.S. season 8)
+What film was Rebecca Gibney in that also had Kate Winslet in it?,The Dressmaker,Rebecca Gibney in Jigsaw and Kate Winslet in Titanic,0,0.0,0,0,0.3731062412261963,32,1,Jigsaw (1989 film)
+When was the football club founded in which Walter Otto Davisplayed at centre forward?,1885,Walter Otto Davisplayed at centre forward for Colchester United F.C.,0,0.0,0,0,0.4229123592376709,32,1,List of Colchester United F.C. seasons
+"Who was born first, Antonin Artaud or  Elizabeth Taylor?",Antonin Artaud,Artaud was born first.,0,0.3333333333333333,1,1,0.5673065185546875,32,1,Antonin Artaud
+The Innocents is a 1961 gothic horror film that was based on a novella by Henry James published in what year?,1898,1961,0,0.0,1,1,0.2664954662322998,32,1,The Turn of the Screw
+What is the nationality of the man who finished second for ART Grand Pix in the 2016 Baku GP2 Series round?,Russia,Russian Time driver,0,0.0,1,1,0.3248739242553711,32,1,2016 Baku GP2 Series round
+Which is the Birthplace of Sir Isaac Newton and has a neighboring village called Belvor?,Woolsthorpe,Belvor,0,0.0,0,0,0.5683324337005615,32,1,Woolsthorpe Manor
+What singer who was the seventh place finalist on the 7th season of American Idol first recorded the song Like My Mother Does,Kristy Lee Cook,American Idol,0,0.0,0,0,0.5675806999206543,32,1,David Hernandez (singer)
+"Before moving to Boston to play at the New England Patriots, in which city did Dean Caliguire play his college and NFL football?",Pittsburgh,College and NFL football,0,0.0,0,0,0.5667695999145508,32,1,List of New England Patriots seasons
+"Which composer was born later, Gaetano Donizetti or William Walton?",William Turner Walton,Donizetti was born later.,0,0.0,0,1,0.35143303871154785,32,1,Gaetano Donizetti
+"What type of place does Regency Road, Adelaide and Klemzig, South Australia have in common?",city,"Regency Road, Adelaide and Klemzig, South Australia",0,0.0,1,1,0.5674543380737305,32,1,"Klemzig, South Australia"
+"Jaroslav Kvapil the Czech poet was born in the Kingdom of Bohemia, also referred to by what name?",Czech Kingdom,Kingdom of Bohemia,0,0.4,0,1,0.48145484924316406,32,1,Jaroslav Kvapil
+"Which industrialist established a museum in Heckscher Park that features ""First Friday"" concerts?",August Heckscher,Industrialist,0,0.0,0,1,0.5673260688781738,32,1,Heckscher Museum of Art
+"The founder of this Canadian owned, American manufacturer of business jets for civilian and military developed this portable tape system.",8-track,Founder of Learjet,0,0.0,0,1,0.5685021877288818,32,1,Learjet
+Which of the following board games accommodates up to 10 players: The Game of Life or the History of the World?,The Game of Life,The Game of Life accommodates up to 10 players.,0,0.6153846153846153,1,1,0.4954228401184082,32,1,The Game of Life
+"Is Ohio State University or California State University, Dominguez Hills further west?","California State University, Dominguez Hills",West,0,0.0,1,0,0.5666167736053467,32,1,Cal State Dominguez Hills Toros
+Who is the current governor of the state where former wrestler Stephen Cepello painted the Governor's Mansion?,Mark Dayton,None,0,0.0,0,1,0.2787322998046875,32,1,Stephen Cepello
+"Who owns an English evening newspaper based in Blackpool, Lancashire?",Johnson Press,Blackpool Gazette,0,0.0,0,1,0.567216157913208,32,1,Blackpool Gazette
+"Killing You is a song by a band that consists of lead vocalist Danny Worsnop, guitarists Ben Bruce and Cameron Liddell, drummer James Cassells and what bassist?",Sam Bettley,"Lead vocalist, guitarists, drummer, bassist",0,0.0,0,1,0.5666882991790771,32,1,Asking Alexandria
+Which former New York senator did Marc Elias help run for office? ,Hillary Rodham Clinton,John Kerry,0,0.0,0,1,0.567918062210083,32,1,Marc Elias
+Den Tagayasu lived in the town that was bombed on which dates?,9–10 March 1945,American airbomb raids,0,0.0,0,1,0.5672352313995361,32,1,Den Tagayasu
+"Which university is further North,  University of New Hampshire or Stony Brook University?",Stony Brook University,New Hampshire or Stony Brook,0,0.5,0,1,0.48079586029052734,32,1,University of New Hampshire
+"Which of the four US Presidents who have been assinated was shot on the grounds of the Pan-American Exposition at the Temple of Music in Buffalo, New York?",William McKinley,William McKinley,1,1.0,1,1,0.5677402019500732,32,1,Assassination of William McKinley
+Ann Killion co-authored a memoir with the American soccer goalkeeper who won how many Olympic golds?,two,American soccer goalkeeper,0,0.0,0,1,0.56768798828125,32,1,Ann Killion
+What is the current occupation of the footballer replaced by Zdenek Zeman at the beginning of the 2012-13 A. S. Roma season?  ,manager,Zdenek Zeman,0,0.0,0,0,0.5693235397338867,32,1,1998–99 A.S. Roma season
+Are the genera Gordonia and Osbeckia in the same family?,no,No,1,1.0,0,1,0.5670692920684814,32,1,Osbeckia
+According to the 2011 census what is the population of the city where Royal Wahingdoh F.C. are based ?,"143,007",Population of Shillong city in 2011 census.,0,0.0,0,1,0.5672881603240967,32,1,Royal Wahingdoh F.C.
+What  profession did Mike Robbie's father practice?,an American attorney,Owner/General Manager,0,0.0,0,1,0.27851414680480957,32,1,Mike Robbie
+"""The Simpson's"" episode featuring the  ""Itchy & Scratchy & Poochie"" show satirized the world of television production just as the episode featuring the ""Itchy & Scratchy & Marge"" satirized what type of issue?",censorship,Satirize the world of television production,0,0.0,0,1,0.5707283020019531,32,1,Itchy &amp; Scratchy &amp; Marge
+"What was the name of the publisher who published ""Finnegans Wake"" in 1939 by James Joyce",Teriade,"James Joyce's ""Finnegans Wake"" was published by",0,0.0,0,0,0.4392375946044922,32,1,Finnegans Wake
+"Die Nacht was composed by German composer, Richard Strauss. What other well known operas did he compose?",Der Rosenkavalier,"Richard Strauss composed ""Der Rosenkavalier"", ""Salome"", and ""Tosca"".",0,0.4,0,1,0.5681769847869873,32,1,Richard Strauss
+"St. John's College, Belize offers an education in a tradition in which what three subjects were the core?","Grammar, logic, and rhetoric",Jesuit tradition,0,0.0,0,1,0.5680253505706787,32,1,"St. John's College, Belize"
+Who was the son and heir of Henry Beauclerc?,William Adelin,Henry II,0,0.0,0,1,0.5686166286468506,32,1,Henry I of England
+"When was the composer of ""Persian Surgery Dervishes"" born?","June 24, 1935","Meymeh, 1922",0,0.0,0,0,0.5657553672790527,32,1,Abdolvahab Shahidi
+Are Nikolaschka and White Russian made of beer?,no,Nikolaschka and White Russian are not made of beer.,0,0.0,0,1,0.5663275718688965,32,1,White Russian (cocktail)
+Where is the stadium at which 1964 Georgia Tech Yellow Jackets football team played their home game located? ,North Avenue at Techwood Drive,Historic Grant Field,0,0.0,0,0,0.5675466060638428,32,1,Georgia Tech Yellow Jackets football
+Frank Lamson-Scribner was adopted by a family near which town in Kennebec County?,Manchester,"Near Manchester, Maine.",0,0.5,1,1,0.2937960624694824,32,1,Frank Lamson-Scribner
+Which game showed has reruns on Teletoon in Canada and was shown between midnight and 6:00 on Cartoon Network Too?,Skatoony,Adrenalini Brothers,0,0.0,0,0,0.567512035369873,32,1,The Amazing Adrenalini Brothers
+What position did the former Major League Baseball player play who worked on the same broadcast team as Kim Kelch?,first baseman,Thom Brennaman,0,0.0,0,1,0.5666360855102539,32,1,Jim Kelch
+What bitcoin start up featured Erik Voorhees as Director of Marketing?,BitInstant,Coinapult,0,0.0,0,1,0.5671300888061523,32,1,Erik Voorhees
+"Which Istanbul mosque is unique for retaining a Baroque style of architecture, the Bayezid II Mosque or the Nusretiye Mosque?",Nusretiye Mosque,Bayezid II Mosque,0,0.4,0,0,0.5678095817565918,32,1,Bayezid II Mosque (Amasya)
+"What career did the British actor born in 1965  and star of Lock, Stock and Two Smoking Barrels have before acting?",professional footballer,Actor,0,0.0,0,1,0.5696518421173096,32,1,"Lock, Stock and Two Smoking Barrels"
+The current coach of the Los Angeles Clippers was signed as a free agent to the San Antonio Spurs during what season?,1994–95 NBA season,2003-04,0,0.0,0,0,0.3089599609375,32,1,2003–04 Seattle SuperSonics season
+" Willie Geist frequently serves as fill-in anchor on ""Today"" for a tv journalist that was the host of what show from 1980-86?","""PM Magazine""",NBC News,0,0.0,0,1,0.2222435474395752,32,1,Willie Geist
+What is the female star of Klepto best known for performing in?,The Secret World of Alex Mack,Jsu Garcia,0,0.0,0,1,0.5683658123016357,32,1,Klepto
+"Which breed, Chinese Chongqing Dog or Kanni, is used for hunting?",Kanni,Chinese Chongqing Dog,0,0.0,0,1,0.5674037933349609,32,1,Chinese Chongqing Dog
+"Who had a longer film career, Harry Sweet or John Biddle?",John Scott Biddle,John Biddle,0,0.8,0,1,0.3798501491546631,32,1,Harry Sweet
+"What was the nationality of the author of ""The Sunlight on the Garden""?",Irish,Kathleen Cambor,0,0.0,0,0,0.566429615020752,32,1,Kathleen Cambor
+"As former head of Orange County Ironworks, what has his hit TLC show called?",American Chopper,Ironworks,0,0.0,0,1,0.567554235458374,32,1,Paul Teutul Jr.
+Brian Olsen was the lst WEC heavyweight champion before the promotion company founded in what month purchased the organization?,January 2001,2007,0,0.0,0,1,0.2503345012664795,32,1,Brian Olsen
+Where was the match held where Chicharito scored goals along with Antonio Valencia and Dimitar Berbatov?,Wembley Stadium,Match location,0,0.0,0,1,0.5664730072021484,32,1,2010 FA Community Shield
+"The director of American crime film, Secret of the Chateau, was known to work at which company?",Metro-Goldwyn-Mayer,Warner Bros.,0,0.0,0,1,0.23619413375854492,32,1,Secret of the Chateau
+"Who was the first Russian composer to make a lasting impression internationally, Alessandro Scarlatti or Pyotr Ilyich Tchaikovsky?",Pyotr Ilyich Tchaikovsky,Scarlatti or Tchaikovsky?,0,0.3333333333333333,0,1,0.5675020217895508,32,1,Alessandro Scarlatti
+What was the nickname of the 76er who was drafted 3rd in the 2014 draft? ,The Process,The Process,1,1.0,1,1,0.568230390548706,32,1,Joel Embiid
+What component was included on the iPad4 that is now a registered trademark in Jamaica? ,Retina Display,Retina Display,1,1.0,0,1,0.5659265518188477,32,1,Retina Display
+What revolutionary group was writer Mary Williams raised by before being adopted by director of the Peace and Justice Resource Center in Los Angeles County Tom Hayden?,Black Panthers,Anti-war group,0,0.0,0,1,0.2655348777770996,32,1,Tom Hayden
+In what type of imprisonment where the inmates Arne Berge helped rescue during operation White Buses?,concentration camp,Concentration camp,1,1.0,1,1,0.5668456554412842,32,1,White Buses
+"The historical Nimavar school in the Nimavar Bazaar, or bazar, is located in which country?",Iran,Iran,1,1.0,1,1,0.5670788288116455,32,1,Nimavar school
+Were The Living Desert and What Would Jesus Buy? directed by the same person?,no,"Yes, they were.",0,0.0,0,1,0.5666329860687256,32,1,What Would Jesus Buy?
+" Which attack resulted with the formal surrender of German forces, the Battle of Guam or the Spring 1945 offensive in Italy?",The Spring 1945 offensive in Italy,Battle of Guam,0,0.0,1,1,0.5676014423370361,32,1,Spring 1945 offensive in Italy
+What is the name of the conditions that the radiologist who served as chief of radiology at the U.S. Army's flagship medical center from 1909 to 2011?,Hampton's hump and Hampton's line,Aubrey Otis Hampton,0,0.0,0,1,0.5700829029083252,32,1,Aubrey Otis Hampton
+"Which town has a greater population as of the 2010 census, Minden, Nevada or Gardnerville, Nevada?",Gardnerville,"Population of Minden, Nevada as of 2010 census.",0,0.0,1,1,0.5678751468658447,32,1,"Gardnerville, Nevada"
+Criss Angel generated $150 million in tourist revenue for his live performance show in what city?,"Paradise, Nevada",Las Vegas,0,0.0,0,0,0.23595261573791504,32,1,Criss Angel Mindfreak
+Who was born first D. Ross Lederman or Stefan Ruzowitzky?,David Ross Lederman,Stefan Ruzowitzky was born first.,0,0.0,0,1,0.5657374858856201,32,1,Stefan Ruzowitzky
+"What English nursery rhyme which dates from 1731 appears on Teletubbies say ""Eh-oh!""?","""Baa, Baa, Black Sheep""","Baa, Baa, Black Sheep",1,1.0,1,1,0.3952295780181885,32,1,"Baa, Baa, Black Sheep"
+Robert Earl Holding owned an oil company that was originally founded by who?,Harry F. Sinclair,Sinclair Oil Corporation,0,0.3333333333333333,0,1,0.567962646484375,32,1,Robert Holding
+"How many albums have been sold by the singer who released the 2002 single ""Sk8er Boi""?  ",40 million,Toya Delazy has released 2 albums under Sony Music Africa and her own label.,0,0.0,0,0,0.45299386978149414,32,1,Toya Delazy
+Party of Syrian Unity was established in the wake of a public statement that announced what ?,"support for the establishment of a ""national home for the Jewish people"" in Palestine",Damascus Declaration,0,0.0,0,0,0.5672464370727539,32,1,Damascus Declaration
+Are Affenpinscher and Villanuco de Las Encartaciones both breeds of dog?,yes,Affenpinscher and Villanuco de Las Encartaciones are both breeds of dog.,0,0.0,0,1,0.5663254261016846,32,1,Affenpinscher
+The Companions were the first of what type of cavalry?,Shock troops,British cavalry,0,0.0,0,0,0.5671534538269043,32,1,British cavalry during World War I
+Laurie Davidson is an English actor known for playing a fictionalized version of a young William Shakespeare on a show that was canceled on what date?,"September 5, 2017",2011,0,0.0,0,1,0.25171899795532227,32,1,Laurie Davidson (actor)
+"Davy Crockett, King of the Wild Frontier:and Herbie Rides Again were both by which company?",Disney,Theatrical Motion Picture,0,0.0,0,0,0.5759999752044678,32,1,"Riders in the Sky Present: Davy Crockett, King of the Wild Frontier"
+"Dawn Lake described the star of ""I Love Lucy"" as what?",our greatest comedienne,"Star of ""I Love Lucy""",0,0.0,0,1,0.602407693862915,32,1,Dawn Lake
+Who wrote the 1995 American action film starring a two-time consensus All-American?,Steven Selling,Steven Selling,1,1.0,1,1,0.5713798999786377,32,1,One Tough Bastard
+When was Ben McNiece played his debut  in the Anzac Day clash  against Collingwood at the Melbourne Cricket Ground?,25 April,2009,0,0.0,0,1,0.5684351921081543,32,1,Ben McNiece
+How long is the tidal estuary in which Branford is a shoreline town?,110 miles,8 mi,0,0.0,0,1,0.5678632259368896,32,1,"Branford, Connecticut"
+what are the low sea stacks in the Shetland Islands called?,Ramna Stacks,Low Sea Stacks,0,0.4,0,1,0.41608738899230957,32,1,Skerry
+Both Neijiang and Weifang and considered what type of city?,a prefecture-level city,Urban-rural,0,0.0,1,1,0.5683472156524658,32,1,Weifang
+Where is the headquarter of the American multinational chemical corporation who's part is Dow AgroSciences?,"Midland, Michigan, United States","Midland, Michigan",0,0.6666666666666666,1,1,0.567375898361206,32,1,Dow Chemical Company
+"what producer of The Real Housewives of Orange County also hosts ""Watch What Happens Live with Andy Cohen""?",Andy Cohen,"Andy Cohen is a producer of The Real Housewives of Orange County and hosts ""Watch What Happens Live with Andy Cohen"".",0,0.17391304347826084,1,1,0.48142385482788086,32,1,Andy Cohen (television personality)
+"Who gave the mother of Alberic II of Spoleto the title ""patricia"" of Rome?",Pope John X,Alberic II of Spoleto,0,0.0,0,0,0.5668952465057373,32,1,Pope Leo VII
+"The reporter who digs into the campaign of a former Marine Colonel, worked where in Cleveland?",Cleveland Press,Cleveland Press,1,1.0,1,1,0.5668535232543945,32,1,Don Baker (journalist)
+"What abbey, founded in 598, was Clarembald a monk at?",St Augustine's Abbey,Clarembald was a monk at St Augustine's Abbey.,0,0.5454545454545454,1,1,0.5660951137542725,32,1,Clarembald
+"Gene Sculatti write for CREEM sometime in the 60s or 70s, what famous term did CREEM coin for describing a genre of rock?","""punk rock","CREEM coined the term ""punk rock"".",0,0.5,1,0,0.41495490074157715,32,1,Punk (magazine)
+What actress with the last name Saravanan starred in the 2004 Tamil film Arul?,Jyothika Saravanan,"Saravanan, the actress, starred in Arul.",0,0.25,0,0,0.4956541061401367,32,1,Pudhukottaiyilirundhu Saravanan
+What is the middle name of the Silicon Valley entrepreneur disussed in the non-fiction book The Unwinding?,Andreas,Jon Fisher,0,0.0,0,0,0.5671937465667725,32,1,Jon Fisher
+" ""Hold On"" is a song that features the vocals of a British singer whose debut album won what prize in 2017?",Mercury Prize,British singer,0,0.0,0,1,0.5669605731964111,32,1,Hold On (SBTRKT song)
+"where was class of warships which ARA ""Sarandí"" is its fourth and last ship built ",Germany,Argentina,0,0.0,0,1,0.5686318874359131,32,1,ARA Sarandí (D-13)
+"Devorah Adler worked as Director of Research for a 2008 presidential candidate, who served until when in the U.S. Senate?",2008,2008,1,1.0,0,1,0.5696191787719727,32,1,Devorah Adler
+Kent Dairy Round Barn is near the city in what Montana county?,Carbon,Montana county,0,0.0,0,1,0.565558671951294,32,1,Kent Dairy Round Barn
+"Which film is older, Monsters, Inc. or Earth?","Monsters, Inc.","Monsters, Inc. (2001) vs. Earth (2009)",0,0.5,0,0,0.5660576820373535,32,1,Monsters vs. Aliens
+"The 2008–09 Texas Tech Red Raiders played in which athletic conference headquartered in Irving, Texas?",Big 12,Big 12 Conference,0,0.8,1,1,0.2934701442718506,32,1,Big 12 Conference
+"Aside from the all-NBA third team member in 1995 who was also a three-time NBA All-Star and the NBA Sixth Man of the Year twice, which other two players were selected for the 1997 NBA All-Star Game from the Seattle SuperSonics?","Gary Payton, Shawn Kemp","Gary Payton, Shawn Kemp, Detlef Schrempf",0,0.8,1,1,0.5562057495117188,32,1,1996–97 Seattle SuperSonics season
+What is the name of the multi-use sports and recreation facility that currently houses professional football club Dynamo Kyiv?,Olimpiyskiy National Sports Complex,Dynamo Training Center,0,0.0,0,0,0.5676994323730469,32,1,Dynamo Training Center
+When was the composer who created Peter Schmoll und seine Nachbarn born?,19 November 1786,19th century German composer,0,0.0,0,0,0.5666940212249756,32,1,Richard Strauss
+What country of origin does Jerry Barrett and Florence Nightingale have in common?,English,England,0,0.0,1,1,0.5671961307525635,32,1,Jerry Barrett
+"Which tennis player was born first, Kimberly Po or Leoš Friedl?",Leoš Friedl,"Born first, Kimberly Po, Leoš Friedl.",0,0.5,1,1,0.4301455020904541,32,1,Leoš Friedl
+Which American Space Western animated series did Celebrity Home Entertainment released ,BraveStarr,BraveStarr,1,1.0,1,1,0.568195104598999,32,1,BraveStarr
+"Which director was also a film editor, Burton L. King or Maheen Zia?",Maheen Zia,Burton L. King or Maheen Zia,0,0.5,1,1,0.43167734146118164,32,1,Maheen Zia
+What year did a director of a North Korean cinema film get kidnapped?,1978,1990,0,0.0,0,0,0.4952049255371094,32,1,Shin Sang-ok
+ Are Finding Kraftland and Shikashika both frozen drinks?,Shikashika is a shaved ice drink,Yes,0,0.0,1,1,0.4233970642089844,32,1,Shikashika
+Creed features the boxer who held what WBC title from 2016 to 2017?,cruiserweight,Creed,0,0.0,0,0,0.2794513702392578,32,1,Katsunari Takayama
+Robbie Tucker plays in what series that follows a group of friends who run an Irish bar?,It's Always Sunny in Philadelphia,It's Always Sunny in Philadelphia,1,1.0,0,1,0.4100930690765381,32,1,It's Always Sunny in Philadelphia
+Clipper Cargo was a subsidiary cargo airline of  the principal and largest international air carrier in the United States that was founded in what year?,1927,1950s,0,0.0,0,1,0.2788517475128174,32,1,Pan Am Cargo
+What was the title of the debut studio album by Weezer which contained the hit Buddy Holly and Undone – The Sweater Song?,The Blue Album,Weezer's debut album.,0,0.3333333333333333,0,0,0.36799025535583496,32,1,Undone – The Sweater Song
+ Patrol Squadron Four (VP-4) is a U.S. Navy land-based patrol squadron based at a Naval station formerly known as what ?,Marine Corps Air Station Kaneohe Bay,Naval station formerly known as,0,0.1818181818181818,0,1,0.31047987937927246,32,1,Patrol Squadron 4 (United States Navy)
+What profession do Raj Kapoor and Mike Cahill share?,director,Film director,0,0.6666666666666666,1,1,0.5327439308166504,32,1,Mike Cahill (director)
+"How many years was the politician coauthor of Common Sense, subtitled A new constitution for Britain an MP for?",47 years,1970s,0,0.0,0,1,0.5666780471801758,32,1,Common Sense (Benn)
+"The producer of the Eric Church album ""The Outsiders"" was a member of what band in the 1980's?",In Pursuit,The band,0,0.0,0,1,0.5683791637420654,32,1,The Outsiders (Eric Church album)
+"What genre did the writer whose novel was based on ""I'll Take Manhattan"" writes?",romance genre,Drama,0,0.0,0,1,0.5688550472259521,32,1,I'll Take Manhattan (miniseries)
+Josephine de Reszke made her debut in what grand opera?,Hamlet,Polish opera,0,0.0,0,1,0.5668799877166748,32,1,Josephine de Reszke
+What year was the 2nd wife of the leader of the hussites born?,1430,2nd wife of George of Poděbrady,0,0.0,0,1,0.5679187774658203,32,1,George of Poděbrady
+"Performers that have played at the L.B. Amphitheatre include an American rock band that originally formed in Jacksonville, Florida, in 1964, as who?",My Backyard,American rock band,0,0.0,0,1,0.5674083232879639,32,1,L. B. Day Amphitheatre
+"Jessica Jones is a television series created for Netflix, the second in the series of the shows that lead to ""The Defenders"" miniseries after what show released on Netflix earlier?",Daredevil,Marvel's Jessica Jones,0,0.0,0,1,0.5671253204345703,32,1,Jessica Jones (TV series)
+"What actor replaced the Welch actor born in 1978 who played Robin Hood in the first season of ""Once upon a Time""?",Sean Maguire,"Actor who replaced Robin Hood in the first season of ""Once Upon a Time"".",0,0.0,0,1,0.35132527351379395,32,1,Robin Hood (Once Upon a Time)
+Who served as a Prime Minister in postwar Britain?,Clement Richard Attlee,Clement Attlee,0,0.8,0,1,0.5670418739318848,32,1,The Spirit of '45
+Peter Curtis and Scott Draper are both what?,former tennis player,tennis players,0,0.4,1,1,0.5660512447357178,32,1,Scott Draper
+"Philip Carlo, the author of the biography of the mob assasin Richard Kuklinsk, died of which diease?i, ",Lou Gehrig's Disease,Philip Carlo died of cancer.,0,0.0,0,1,0.32512927055358887,32,1,Philip Carlo
+Philip Savage served as Direcor of Player Personnel for the Baltimore Ravens under what general manager who was inducted into both the College and Pro Football Halls of Fame?,Ozzie Newsome Jr.,Philip Savage served as Director of Player Personnel for the Baltimore Ravens under John Harbaugh.,0,0.0,0,1,0.45303988456726074,32,1,Phil Savage
+"Isaac Live Schreiber, better known as Live Schrieber, acted in Salt, a 2010 American action thriller film directed by whom?",Phillip Noyce,Phillip Noyce,1,1.0,1,1,0.5682690143585205,32,1,Salt (2010 film)
+"This man who was born on April 25th, 1947, was a member of this lower house of the Hawaii State Legislature.","Robert ""Bobby"" Bunda",Member of Hawaii State Legislature.,0,0.0,0,1,0.27999281883239746,32,1,Robert Bunda
+What game where a play must act as a night security guard was a new intellectual property released in 2014?,Five Nights at Freddy's,Five Nights at Freddy's,1,1.0,1,1,0.36647486686706543,32,1,Five Nights at Freddy's (video game)
+Which scientist at the University of Alabama in Huntsville co-developed a satellite temperature record with John Christy?,Roy Spencer,John Raymond Christy,0,0.0,0,0,0.5679774284362793,32,1,John Christy
+Which Democrat running for president in 2020 currently holds Maryland’s 6th district in the US House of Representatives?,John Delaney,John Delaney,1,1.0,0,1,0.5683245658874512,32,1,John Delaney (Maryland politician)
+Which composer created Night Ferry first performed in 2012 at Symphony Center in Chicago?,Anna Clyne,Anna Clyne,1,1.0,1,1,0.5674936771392822,32,1,Night Ferry (composition)
+Which Olympic game featured Boules and happened right before medals started to be awarded?,The Summer Olympic Games,Boules,0,0.0,0,1,0.567744255065918,32,1,Summer Olympic Games
+Arnold Richards was the former chair of what organization that is a member of the Center for Jewish History?,YIVO,Center for Jewish History,0,0.0,0,0,0.5324079990386963,32,1,Israel Bartal
+Which English actor starred in the 1995 american romantic drama film The Scarlet Letter alongside Demi Moore and Robert Duvall?,Gary Oldman,"Demi Moore, Robert Duvall, and Meryl Streep",0,0.0,0,1,0.5669651031494141,32,1,The Scarlet Letter (1995 film)
+What famous New York burglar and freelance writer was involved in a robbery for which a book was written about?,"Robert ""Bobby"" Germaine",Henry Hill,0,0.0,0,1,0.5681488513946533,32,1,Robert &quot;Bobby&quot; Germaine
+"When was Poison's album ""Shut Up, Make Love"" released?",2000,2000,1,1.0,1,1,0.5396788120269775,32,1,"Shut Up, Make Love"
+The actor who appeared on Charlotte's Shorts and Weeds was born in what year?,1966,Born in 1959,0,0.0,0,0,0.566577672958374,32,1,Charlie Murphy
+"Which ""Blackzilians"" fighter is currently competing in the Middleweight division of Ultimate Fighting Championship?",Vitor Belfort,Vitor Belfort,1,1.0,0,1,0.5673465728759766,32,1,Vitor Belfort
+"When was the seven-time World and Olympic medalist on which ""Foxcatcher"" was based born? ","June 6, 1959",Brittney Reese was born in 1986.,0,0.0,0,0,0.43853330612182617,32,1,Brittney Reese
+Who resides in the palace that was the inspiration for the Kensington System's name?,British Royal Family,Kensington Palace,0,0.0,0,1,0.567399263381958,32,1,Kensington Palace
+Where did the host of the 2014 edition of the MTV Africa Music Awards begin their career?,"""I'm Gonna Git You Sucka""",Durban,0,0.0,0,1,0.5675904750823975,32,1,MTV Africa Music Awards 2014
+What Nobel Laureate teaches at  Chapman University?,Vernon Smith,Nobel Laureate,0,0.0,0,0,0.5316047668457031,32,1,Chapman University
+"What is the mononym of the Fillipino singer that released the album ""My Inspiration""?",Charice,Elton John,0,0.0,0,0,0.5674159526824951,32,1,Elton John
+"Which film has more writers, Splash or Christopher Robin?",Christopher Robin,Splash,0,0.0,1,1,0.5661683082580566,32,1,Christopher Robin (film)
+"What movie was released at a later date, My Dog Tulip or Monsters vs. Aliens?",Monsters vs. Aliens,My Dog Tulip or Monsters vs. Aliens,0,0.6,1,0,0.39478015899658203,32,1,Monsters vs. Aliens (video game)
+Which KaBoom! Entertainment Inc. film is based on a story by Rudyard Kipling?,The Jungle Book (1894),Rudyard Kipling's The Jungle Book (1994 film),0,0.5454545454545454,0,0,0.4681582450866699,32,1,The Jungle Book (1994 film)
+Which of Damon Stoudamire's cousins once played college basketball for the University of Kentucky?,Terrence Jones,Damon Stoudamire's cousin played for the University of Kentucky.,0,0.0,0,1,0.5527489185333252,32,1,Damon Stoudamire
+What type of activity does Owner earnings and Warren Buffett have in common?,business,Owner Earnings,0,0.0,0,1,0.5679981708526611,32,1,Owner earnings
+"Haier has North American rights to which appliance company headquartered in Louisville, Kentucky?",GE Appliances,Haier has North American rights to GE Appliances.,0,0.4,0,1,0.4369535446166992,32,1,GE Appliances
+"What is the name of  rocker, who was awarded ""Rock Goddess of the Year"" in the Annual Loudwide Music Awards, who sang with high pitched screams in her band's albums?",Maria Brink,Allison Iraheta,0,0.0,0,0,0.30876660346984863,32,1,Allison Iraheta
+"Which dog is based in Switzerland, Appenzeller Sennenhund or Drentse Patrijshond?",Appenzeller Sennenhund,Appenzeller Sennenhund,1,1.0,0,1,0.5680232048034668,32,1,Drentse Patrijshond
+Are Dogo Cubano and the Dutch Shepherd both breeds of dog?,yes,"Yes, both breeds are extinct.",0,0.33333333333333337,0,1,0.3509383201599121,32,1,Dogo Cubano
+Are Mike Bryan and Ray Ruffels both tennis players?,yes,"Yes, both are tennis players.",0,0.33333333333333337,0,1,0.35009169578552246,32,1,Ray Ruffels
+Wojtek Wolski played for what team based in the Miami metropolitan area?,Florida Panthers,Miami Dolphins,0,0.0,0,0,0.423292875289917,32,1,List of Miami Dolphins starting quarterbacks
+What unit of the Air National Guard is located at a base that was home to the 509th Bomb Wing flying the General Dynamics FB-111A?,133d Air Refueling Squadron,509th Bomb Wing,0,0.0,0,1,0.5696442127227783,32,1,Pease Air National Guard Base
+The 2008 American romantic drama film directed by David Fincher won what directing award?,Academy Award for Best Art Direction,Won,0,0.0,0,1,0.5663444995880127,32,1,The Curious Case of Benjamin Button (film)
+"The debut album came out in 1988 but what year did the song ""She's My Baby"" come out in?",1990,1988,0,0.0,1,1,0.567758321762085,32,1,She's My Baby (Traveling Wilburys song)
+"In what state did this band form that is an American metalcore band, founded in mid-2009, and whose lead vocalist was Jerry Roush?",California,Virginia,0,0.0,0,1,0.2074732780456543,32,1,Glass Cloud
+"Which writer of the song ""Money, Money, Money"" by pop group ABBA was born on 16 December 1946 ?",Benny Andersson,Björn Ulvaeus,0,0.0,1,1,0.35275769233703613,32,1,"Money, Money, Money"
+What NFL team did the 2017 ESPN College Football Friday Primetime host who played at Oklahoma in college play for?,the Bears,Oklahoma Sooners,0,0.0,0,1,0.5669863224029541,32,1,ESPN College Football Friday Primetime
+"In which year did this Russian actress  who produced and performed in the 1922 American silent drama film ""A Doll's House"" immigrate to the United States?",1905,1922,0,0.0,0,1,0.567657470703125,32,1,A Doll's House (1922 film)
+"What year was the Leeds football club, which Arthur Hydes played, formed? ",1919,1919,1,1.0,1,1,0.5680065155029297,32,1,Leeds United F.C.
+"Which Disneyland attraction is Matterhorn Bobsleds roller coaster, an expanded version of",Autopia,Matterhorn Bobsleds,0,0.0,0,0,0.567460298538208,32,1,Matterhorn Bobsleds
+"Who has released more studio albums, 10 Years or Edward Sharpe and the Magnetic Zeros?",10 Years,10 Years,1,1.0,0,0,0.5676159858703613,32,1,Edward Sharpe and the Magnetic Zeros (album)
+Jean Hudson Boyd is known for her controversial sentencing of Ethan Couch. What was his sentence?,ten years of probation,Ethan Couch was sentenced to 10 years in prison.,0,0.15384615384615383,0,1,0.46597790718078613,32,1,Ethan Couch
+What type of diet does the author of Eat to Live: The Amazing Nutrient-Rich Program for Fast and Sustained Weight Loss advocate?,micronutrient-rich,Vegetarian,0,0.0,0,1,0.3369865417480469,32,1,Eat to Live
+"In which branch of the U.S. military did the man who Robert Conrad portrayed in the television series ""Baa Baa Black Sheep"" serve?",Marine Corps,U.S. Navy,0,0.0,0,0,0.5689473152160645,32,1,Baa Baa Black Sheep (TV series)
+"Fiske O'Hara was born in what city Knox County, Maine, that had a population of 2,297 as of the 2010 census?",Rockland,Fiske O'Hara was born in Bangor.,0,0.0,0,0,0.35206031799316406,32,1,"Knox County, Maine"
+"What year was the essay which Henry Louis Gates and Cornel West criticized in their book, ""The Future of the Race"" first published?",1903,1990s,0,0.0,0,1,0.5673794746398926,32,1,The Future of the Race
+"What character did G.D. Spradlin's collaborator Marlon Brando portray in ""On the Waterfront""?",Terry Malloy,G.D. Spradlin's collaborator Marlon Brando portrayed the character of Terry Malloy.,0,0.3076923076923077,1,1,0.5677707195281982,32,1,Marlon Brando
+Who was the team president of the 2012 Cleveland Browns?,Mike Holmgren,None,0,0.0,0,0,0.5670974254608154,32,1,Phil Savage
+Shannon Purser played the role of June Acosta in a 2017 horror film directed by who?,John R. Leonetti,"Shannon Purser played June Acosta in ""Wish Upon"".",0,0.0,0,1,0.4219512939453125,32,1,Shannon Purser
+"Who was born first, Steve Hogarth or Donnie Munro?",Donnie Munro,Hogarth was born first.,0,0.0,0,1,0.32158899307250977,32,1,Steve Hogarth
+What is the name the French give to the war during which the Prussians occupied the Pavillon du Butard?,War of 1870,Occupation of the Pavillon du Butard,0,0.2222222222222222,0,1,0.5685794353485107,32,1,Pavillon du Butard
+The founder of the Ali Akbar College of Music was known for his virtuosity in what musical instrument?,the sarod,Ali Akbar Khan,0,0.0,0,1,0.5683214664459229,32,1,Ali Akbar Khan
+The magazine that nominated George Rainsford for their Best Actor award in 2017 comes out every week on what day of the week?,Tuesday,Friday,0,0.0,0,1,0.5677258968353271,32,1,TV Choice
+Which company owned by a Pakistani media mogul produced the Pakistani romantic drama film Dobara Phir Se?,ARY Films,ARY Films,1,1.0,1,1,0.26499152183532715,32,1,Dobara Phir Se
+"Where did the father of Edward Garrison Walker live when he wrote ""An Appeal to the Coloured Citizens of the World""?",Boston,Boston,1,1.0,1,1,0.5700244903564453,32,1,Edward G. Walker
+"Which breed of Dog was developed in Germany, The Large Münsterländer or Bracco Italiano?",The Large Münsterländer,"The Large Münsterländer was developed in Germany, The Bracco Italiano was developed in Italy.",0,0.35294117647058826,1,1,0.5682978630065918,32,1,Large Münsterländer
+The 2005 film Remedy featured Frank Vincent from The Sopranos and several mob movies by which acclaimed director?,Martin Scorsese,"Frank Vincent, The Sopranos, mob movies",0,0.0,0,1,0.5677711963653564,32,1,Remedy (film)
+Who was the creator of the American political satire comedy television series in which Sufe Bradshaw plays an acerbic secretary named Sue?,Armando Iannucci,HBO,0,0.0,0,1,0.22163915634155273,32,1,Sufe Bradshaw
+Which 1949 British black comedy film does the Skindles hotel appear on? ,Kind Hearts and Coronets,The Rolling Stones and The Strawbs,0,0.2,1,1,0.3509218692779541,32,1,Skindles
+Both Tsai Ming-liang and Giacomo Gentilomo were involved with which profession?,film director,"Film director, painter",0,0.8,1,1,0.2786903381347656,32,1,Giacomo Gentilomo
+"Who was a pianist, Maro Ajemian or Richard C. Sarafian?",Maro Ajemian,Maro Ajemian or Richard C. Sarafian?,0,0.5,1,1,0.4231739044189453,32,1,Maro Ajemian
+Witkins Township is served what district that is represented by Tim Murphy?,Pennsylvania's 18th congressional district,Tim Murphy represents the 18th district.,0,0.4,1,1,0.5670487880706787,32,1,Pennsylvania's 18th congressional district
+Which politician represents a city on the Flathead Indian Reservation?,Gregory J. Hertz,Tribal Trust Lands,0,0.0,0,0,0.5675773620605469,32,1,Northwest Montana Wetland Management District
+The Genesis Flood is a book by John C. Whitcomb and what founder of the Creation Research Society and the Institute for Creation Research?,Henry Madison Morris,Creation Research Society,0,0.0,0,1,0.5531072616577148,32,1,The Genesis Flood
+Erskine Academy is located in a village in what county?,"Kennebec County, Maine",[Chunk 2] County,0,0.3333333333333333,0,1,0.5238397121429443,32,1,Erskine Academy
+In which year NGC 166 is located by an american astronomer who also discovered Frank Muller and Ormond Stone,1886,American astronomer Frank Muller discovered Frank Muller and Ormond Stone.,0,0.0,0,0,0.5675971508026123,32,1,Frank Muller (astronomer)
+"Who played Dominic Toretto in all eight films, starting in 2001, from Universal's biggest film franchise ever?",Vin Diesel,Dominic Toretto,0,0.0,0,0,0.5676822662353516,32,1,The Fate of the Furious
+What British publisher published a dystopian novel in 1949 written by an English author?,Fredric John Warburg,Orwell,0,0.0,0,1,0.5665521621704102,32,1,Nineteen Eighty-Four
+What sibling of John D. Rockefeller III was the chairman of Chase Manhattan Corporation?,David Rockefeller,John D. Rockefeller III,0,0.3333333333333333,1,1,0.5682899951934814,32,1,David Rockefeller
+Which southern Georgia city features the Blazers college athletic teams?,Valdosta,Valdosta,1,1.0,1,1,0.5673127174377441,32,1,Valdosta State Blazers
+This radio programme that originally aired from October 1995 to April 2000 starred a critic working in what field?,pop music and popular culture,Critic,0,0.0,0,1,0.5683648586273193,32,1,Booked!
+"Stephen Joseph Bercik was mayer of a city that had a population of 124,969 as of the 2010 United States Census, and that has an estimated population of what for 2015?","129,007","1, 2, 3, 4, 5, 6, 7, 8, 9, 10,",0,0.0,0,1,0.569817066192627,32,1,Stephen Bercik
+"The actor that plays Phileas Fogg in ""Around the World in 80 Days"", co-starred with Gary Cooper in a 1939 Goldwyn Productions film based on a novel by what author?",Charles L. Clifford,Jules Verne,0,0.0,0,0,0.5681614875793457,32,1,Jules Verne Trophy
+Are Power Grid and Vanished Planet both cooperative board games?,no,"Yes, both are cooperative games.",0,0.0,0,1,0.5672998428344727,32,1,Vanished Planet
+In what metropolitan area is the future transfer point for the line previously designated the Bi-County Transitway?,"Washington, D.C.",Bi-County Transitway,0,0.0,0,0,0.5674998760223389,32,1,Bridgeport station (Connecticut)
+"who had to escape nazis, Sigmund Freud or Evelyn Waugh?",Sigmund Freud,Sigmund Freud,1,1.0,0,1,0.5662262439727783,32,1,Sigmund Freud
+What role did Kim Dong-wook play in the 2012 South Korean historical film directed by Kim Dae-seung?,an obsessed and tormented king,Kim Dong-wook played the role of a concubine.,0,0.0,0,1,0.5552129745483398,32,1,The Concubine (film)
+Who was the pivotal in the formation of schools catering for the primary and early secondary education of children in remote and outback Australia?,Adelaide Laetitia,Primary Education,0,0.0,0,1,0.5675365924835205,32,1,School of the Air
+What city is the army division that conducted Operation Blue Hearts in the Korean War based out of?,"Fort Hood, Texas",Pohang,0,0.0,0,1,0.5680038928985596,32,1,Operation Blue Hearts
+"What professional baseball player who played for the Brooklyn Robbins in 1928 and 1929, attended college in Denton, Texas?",Walter Maxwell West Sr.,Denton College,0,0.0,0,1,0.4099266529083252,32,1,Max West (1920s outfielder)
+"Which dialect spoken in the province of Scania calls Spettekaka, ""spiddekaga""?",Scanian dialects,Scanian dialect,0,0.5,0,1,0.43889498710632324,32,1,Scanian dialect
+What 2017 Christopher B. Landon directed American slasher film is Jessica Rothe starring in?,Happy Death Day,Happy Death Day,1,1.0,1,1,0.3076210021972656,32,1,Happy Death Day
+"The football maneuver, known as the horse-collar tackle is most closely associated with a player that was drafted by what NFl team in 2002?",Dallas Cowboys,2002 NFL Draft,0,0.0,0,1,0.2944021224975586,32,1,Horse-collar tackle
+"Which actor starred in both ""The Best Years of Our Lives"" in 1946 and ""The Crowded Sky"" in 1960?",Carver Dana Andrews,William Wyler,0,0.0,0,0,0.5706710815429688,32,1,William Wyler
+Kim Jong-hyun's first studio album was distributed by whom?,KT Music,Music label,0,0.5,0,0,0.5670120716094971,32,1,List of songs written by Kim Jong-hyun
+What band was the man who compiled the tracks for The Early Years a part of when they were inducted into the Rock and Roll Hall of Fame?,Deep Purple,Korn,0,0.0,0,0,0.23706698417663574,32,1,"Greatest Hits, Vol. 1 (Korn album)"
+Which Dutch media tycoon transferred all of its media activities to Talpa Holding?,John de Mol Jr.,John de Mol Jr.,1,1.0,1,1,0.30782341957092285,32,1,Talpa Holding
+Is Chicago Rockford International Airport or McClellan–Palomar Airport closer to their nearest cities?,McClellan–Palomar Airport,Chicago Rockford International Airport or McClellan–Palomar Airport,0,0.4444444444444445,0,1,0.5684642791748047,32,1,Chicago Rockford International Airport
+The National symbols of Albania are used in this part of Serbia that are composed of which municipalities?,municipalities of Bujanovac and Preševo,National symbols of Albania,0,0.22222222222222224,0,1,0.6346511840820312,32,1,National symbols of Albania
+"Who is older, Thomas Friedman or English author David Lodge?",David John Lodge CBE,Thomas Friedman is older than David Lodge.,0,0.36363636363636365,1,1,0.3823518753051758,32,1,David Lodge (author)
+The winner of the 1984 United States Senate election in Maine took on what political role from 1997-2001?,Secretary of Defense,Republican U.S. Senator,0,0.0,0,1,0.5673964023590088,32,1,"United States Senate election in Maine, 1984"
+What is the long name of the Government of Ireland Act 1920 that relates to Islam in Northern Ireland?,An Act to provide for the better government of Ireland,Government of Ireland Act 1920,0,0.5333333333333333,0,1,0.5665075778961182,32,1,Islam in Northern Ireland
+Does MedStar Washington Hospital Center or Children's National Medical Center have more beds?,MedStar Washington Hospital Center,Yes,0,0.0,1,1,0.565727949142456,32,1,MedStar Washington Hospital Center
+Are Aladdin and Song of the South produced by the same company?,yes,No,0,0.0,0,0,0.4950392246246338,32,1,The Return of Jafar
+Are Daryl Hall and Gerry Marsden both musicians?,yes,"Yes, both are musicians.",0,0.4,0,0,0.3222329616546631,32,1,Hall &amp; Oates
+"Dutch-born American businessman, Harry Koch, fathered a son born in 1900 that founded which oil refinery firm?",Koch Industries,"Dutch-born American businessman, Harry Koch, fathered a son born in 1900 that founded an oil refinery firm.",0,0.10526315789473684,0,1,0.5662662982940674,32,1,Fred C. Koch
+"Which composer was wrote his music most recently, Michael Tippett or Luigi Cherubini?",Michael Kemp Tippett,Luigi Cherubini,0,0.0,0,1,0.5706932544708252,32,1,Luigi Cherubini
+"Wapping has the oldest riverside tavern, dating back from when?",from around 1520,1520,0,0.5,1,1,0.5306932926177979,32,1,Prospect of Whitby
+when was the coach of the 1981 Oklahoma Sooners football team born ?,1937,Born in 1940,0,0.0,0,0,0.307697057723999,32,1,Josh Heupel
+Where is Anticimex's parent company headquartered?,"EQT Plaza in Pittsburgh, Pennsylvania",Anticimex is wholly owned by,0,0.0,0,1,0.567340612411499,32,1,Anticimex
+"Gloria S. Butler can find her constuancy in what directional sections of DeKalb County, Georgia?",eastern,"DeKalb County, Georgia",0,0.0,0,1,0.5683286190032959,32,1,Gloria S. Butler
+"What singer-songwriter performed the country pop sing ""Fifteen""?",Taylor Swift,Taylor Swift,1,1.0,1,1,0.5214128494262695,32,1,Fifteen (song)
+"Who was born first, Liam Cunningham or Michael Fassbender?",Liam Cunningham,Cunningham or Fassbender,0,0.4,0,1,0.5710949897766113,32,1,Michael Fassbender
+What team won the XLII super bowl in their 48th overall season?,2007 New England Patriots,Seattle,0,0.0,0,0,0.20815277099609375,32,1,Super Bowl XLVIII
+What river has five waterfalls depicted on a state seal?,Missouri River,Great Falls (Missouri River),0,0.6666666666666666,0,1,0.5323014259338379,32,1,Great Falls (Missouri River)
+"Angelspit toured the United States with an American electronic music duo from Orlando, Florida, that formed in what year?",2006,2004,0,0.0,0,1,0.25108766555786133,32,1,Angelspit
+"Who was the another star in the television series Ma Boy who worked with the South Korean actress who began her career as a child actress in 2006 and initially gained public attention for ""Moon Embracing the Sun"" (2012)?",Sun Woong,Kim So-hyun,0,0.0,1,1,0.5692222118377686,32,1,Ma Boy (TV series)
+Michael J. Hunter replaced the lawyer who became the administrator of which agency?,EPA,Oklahoma State Treasurer,0,0.0,0,1,0.5671348571777344,32,1,Michael J. Hunter
+"""Look At Us Now"" is a song by American DJs based in which city ?",Los Angeles,Los Angeles,1,1.0,0,1,0.5677430629730225,32,1,Look At Us Now
+Thea Ruth White is best known for her voice over work as Muriel Bagge on  an American animated horror comedy television series created for who?,Cartoon Network,American animated horror comedy series,0,0.0,0,1,0.2941553592681885,32,1,Thea White
+Which film came first The Strongest Man in the World or Candleshoe?,The Strongest Man in the World,The Strongest Man in the World (1975) or Candleshoe (1975),0,0.7499999999999999,1,1,0.5760648250579834,32,1,The Strongest Man in the World
+Which Sudanese-born Australian professional basketball player for the Milwaukee Bucks exemplifies that players do not have to play at least a year in college basketball before being drafted into the NBA?,Thon Marial Maker,Malcolm Brogdon,0,0.0,0,0,0.2952115535736084,32,1,Malcolm Brogdon
+Goldilocks and the Three Bares was a film that was totally separate from the fairy tale from what century?,19th-century,1960s,0,0.0,0,1,0.5674014091491699,32,1,Goldilocks and the Three Bares
+One of the actors in the film Dhruva Natchathiram was awarded an Honorary Doctorate by the People's University of Milan in what year?,2011,Milan,0,0.0,0,1,0.5685808658599854,32,1,Dhruva Natchathiram
+The was the album with the song  Unbelievable by American rapper The Notorious B.I.G released?,"September 13, 1994",The Notorious B.I.G.,0,0.0,0,1,0.30888938903808594,32,1,Unbelievable (The Notorious B.I.G. song)
+What American pianist and composer was a guest muscian on the Manhattan Blues Project album by Steve Hunter?,Philip Aaberg,American pianist and composer,0,0.0,0,1,0.2933011054992676,32,1,The Manhattan Blues Project
+"What Japanese Auto Manufacturer headquarted in Minato, Tokyo, Japan did Nissan aquire controlling interest in?",Mitsubishi,Nissan,0,0.0,1,1,0.5668361186981201,32,1,Mitsubishi Motors
+Were the films Tonka and 101 Dalmatians released in the same decade?,1958 Walt Disney Western adventure film,"Yes, they were released in the same decade.",0,0.0,0,0,0.4376358985900879,32,1,One Hundred and One Dalmatians
+Is the university that Mary Jane Phillips-Matz attended in New York a public or private school?,private,Public or Private,0,0.5,1,1,0.5683906078338623,32,1,Columbia University
+How many daily flights are made by the Thai long-haul low-fare airline (part of the AirAsia Group) headquartered and based at Don Mueang International Airport?,21,2,0,0.0,0,1,0.43924379348754883,32,1,Thai AirAsia X
+The 2017 European Short Course Swimming Championships will be held in an Arena which began construction when?,26 June 2013,Royal Arena,0,0.0,0,1,0.5691361427307129,32,1,2017 European Short Course Swimming Championships
+"Who is the mother of Mary Robinson in Shakespeare's ""The Winter's Tale""",Leontes,Mary Robinson,0,0.0,0,0,0.5542232990264893,32,1,Davy Crockett – In Hearts United
+Hermann Wilhelm Göring was a veteran fighter pilot in a war that ended in what year?,1918,World War II,0,0.0,0,1,0.2649655342102051,32,1,Hermann Göring
+The Oppenheimer security hearing explored the associations of the wartime head of which laboratory?,Los Alamos,Los Alamos Laboratory,0,0.8,1,1,0.5672078132629395,32,1,J. Robert Oppenheimer
+What is the name of the company that wholly owns the Value Alliance airline whose head office is within Terminal 2 of Narita International Airport?,All Nippon,Japan Airlines,0,0.0,0,1,0.5671827793121338,32,1,Value Alliance
+Are Mick Jagger and Brett Scallions both musicians?,yes,"Yes, both are musicians.",0,0.4,0,1,0.5673482418060303,32,1,Brett Scallions
+Until what year did the Chief of Justice of the Supreme Court that administered the presidential oath of office to Abraham Lincoln on his first inauguration as the 16th President of the United States hold that office?,1864,1861,0,0.0,0,1,0.5695555210113525,32,1,First inauguration of Abraham Lincoln
+Kadeem Jack is a player in a league that started with how many teams?,eight,15,0,0.0,0,1,0.5388343334197998,32,1,Kadeem Jack
+Are Über Goober and American Jobs both documentaries about gaming?,no,"Yes, both are documentaries.",0,0.0,0,1,0.5669381618499756,32,1,Über Goober
+Be Quick '28  football club is locayed in what province?,Overijssel,North Holland,0,0.0,0,1,0.23550653457641602,32,1,Be Quick '28
+"What country does Eric A. Sykes and Eccles, Greater Manchester have ion common?",England,England,1,1.0,1,1,0.5681946277618408,32,1,"Eccles, Greater Manchester"
+"Who is Bruce Spizer an expert on, known as the most influential act of the rock era?",The Beatles,Beatles,0,0.6666666666666666,0,1,0.22200918197631836,32,1,The Beatles
+What land elevation does Khunyang Chhish and Ismoil Somoni Peak have in common?,mountain,elevation,0,0.0,0,1,0.568953275680542,32,1,Ismoil Somoni Peak
+"Which genus has more species, Cymbidium or Patrinia?",Cymbidium,Cymbidium has more species.,0,0.4,1,1,0.37937378883361816,32,1,Cymbidium
+Who was the New York City Fire Commissioner at the time of Providenza Panno's death?,Rhinelander Waldo,Who was the New York City Fire Commissioner at the time of Providenza Panno's death?,0,0.0,0,0,0.5670640468597412,32,1,New York City Fire Commissioner

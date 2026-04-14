@@ -1,2 +1,0 @@
-num_examples,avg_EM,avg_F1,avg_Recall@k_answer,avg_Recall@k_support_titles,latency_p50,latency_p95,chunk_size,top_k
-500,0.37,0.5210695150394842,0.794,0.98,1.977539300918579,2.730756390094757,256,5

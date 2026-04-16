@@ -528,10 +528,10 @@ def main():
         all_summaries.append(summary)
 
     # Save one global summary file for the whole script
-    save_json(OUTPUT_DIR / "summary_script1_chunksize_study.json", all_summaries)
-    pd.DataFrame(all_summaries).to_csv(
-        OUTPUT_DIR / "summary_script1_chunksize_study.csv",
-        index=False
+    #save_json(OUTPUT_DIR / "summary_script1_chunksize_study.json", all_summaries)
+    # pd.DataFrame(all_summaries).to_csv(
+    #    OUTPUT_DIR / "summary_script1_chunksize_study.csv",
+    #    index=False
     )
 
     print("\nAll configurations completed.")

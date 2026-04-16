@@ -38,9 +38,9 @@ from transformers import AutoTokenizer, AutoModelForCausalLM
 DATA_DIR = Path("/home/a/arfaoui/rag_project/data")
 OUTPUT_DIR = Path("/home/a/arfaoui/rag_project/Output_1B")
 
-DATASET_PATH = DATA_DIR / "hotpotqa_sample_500.json"
+DATASET_PATH = DATA_DIR / "hotpotqa_full_sample.json"
 
-CHUNK_SIZES = [32, 128, 256]
+CHUNK_SIZES = [256]
 FIXED_TOP_K = 5
 
 EMBED_MODEL_NAME = "BAAI/bge-small-en-v1.5"
@@ -68,7 +68,7 @@ def load_hotpot_sample(max_examples=None):
     The sample file is stored in JSON Lines format, so we load it
     with the datasets library exactly like in the testing notebook.
     """
-    sample_path = DATA_DIR / "hotpotqa_sample_500.json"
+    sample_path = DATA_DIR / "hotpotqa_full_sample.json"
     hotpot_sample = datasets.load_dataset("json", data_files=str(sample_path))["train"]
 
     if max_examples is not None:

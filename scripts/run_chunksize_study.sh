@@ -35,7 +35,7 @@ echo "TMPDIR=$TMPDIR"
 
 # Go to project
 PROJECT_DIR="$HOME/rag_project"
-SCRIPT_PATH="$PROJECT_DIR/notebooks/06_full_generation_evaluation_TopK_variation.py"
+SCRIPT_PATH="$PROJECT_DIR/notebooks/06_full_generation_evaluation.py"
 
 cd "$PROJECT_DIR"
 

@@ -40,7 +40,7 @@ OUTPUT_DIR = Path("/home/a/arfaoui/rag_project/Output_1B")
 
 DATASET_PATH = DATA_DIR / "hotpotqa_full_sample.json"
 
-CHUNK_SIZES = [256]
+CHUNK_SIZES = [512]
 FIXED_TOP_K = 5
 
 EMBED_MODEL_NAME = "BAAI/bge-small-en-v1.5"
@@ -532,7 +532,7 @@ def main():
     # pd.DataFrame(all_summaries).to_csv(
     #    OUTPUT_DIR / "summary_script1_chunksize_study.csv",
     #    index=False
-    )
+    #)
 
     print("\nAll configurations completed.")
 

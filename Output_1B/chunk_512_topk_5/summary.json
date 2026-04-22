@@ -1,0 +1,11 @@
+{
+  "num_examples": 7405,
+  "avg_EM": 0.15449020931802837,
+  "avg_F1": 0.3016869488439241,
+  "avg_Recall@k_answer": 0.699122214719784,
+  "avg_Recall@k_support_titles": 0.9440918298446995,
+  "latency_p50": 0.8078641891479492,
+  "latency_p95": 1.1664826393127439,
+  "chunk_size": 512,
+  "top_k": 5
+}

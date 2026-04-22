@@ -3,25 +3,38 @@
 ## Overview
 
 This project implements and evaluates a **Retrieval-Augmented Generation (RAG)** pipeline on the HotpotQA dataset.
-The main goal is to study how different retrieval configurations (chunk size and top-k) affect system behavior.
+The main objective is to study how different retrieval configurations, especially **chunk size** and **top-k**, influence answer generation and evaluation.
 
-The repository is organized to clearly separate:
+The project was developed step by step in notebooks and later adapted into `.py` scripts for execution with **SLURM** on GPU.
 
-* data preparation
-* indexing
-* generation & evaluation
-* experiment outputs
-* analysis
+---
+
+## Important Note
+
+The original project also contains a **`data/` folder**, but it is **not included here** because it is too large to upload.
+
+That folder originally stores all intermediate and generated artifacts of the pipeline, including:
+
+* prepared dataset files
+* built corpus files
+* chunked documents
+* embeddings
+* FAISS indexes
+* chunk metadata
+* outputs generated between preprocessing steps
+
+Because this folder is not included, the **paths inside the scripts and notebooks must be adapted** before running the project in a new environment.
+
+If you reuse this project, please first check and update all path definitions in the scripts and notebooks to match your local setup.
 
 ---
 
 ## Project Structure
 
-```text
+```text id="j47cbf"
 rag_project/
 │
 ├── 500_Sample/
-├── data/
 ├── logs/
 ├── notebooks/
 ├── Output_1B/
@@ -33,72 +46,40 @@ rag_project/
 
 ## Folder Details
 
-### 1. `500_Sample/`
+### `500_Sample/`
 
-Contains the **pilot experiment (500 samples)**:
+Contains the **pilot experiment based on 500 questions**.
 
-* used for debugging and fast experimentation
-* includes outputs generated on the small subset
-* helps validate the pipeline before scaling to full dataset
+This part was used for:
 
----
+* fast testing
+* debugging
+* first controlled experiments before scaling to the full validation set
 
-### 2. `data/`
-
-This folder contains all **intermediate and processed data** used by the pipeline.
-
-Typical contents:
-
-* **Dataset**
-
-
-* **Corpus**
-
-  * processed context passages extracted from HotpotQA
-
-* **Chunks**
-
-  * `hotpotqa_chunks_<size>.json`
-  * token-based chunks for each chunk size
-
-* **Embeddings**
-
-  * `embeddings_<size>.npy`
-  * vector representations of chunks
-
-* **FAISS Indexes**
-
-  * `faiss_index_<size>.index`
-  * used for similarity search
-
-* **Metadata**
-
-  * `chunks_metadata_<size>.json`
-  * mapping between chunks and original documents
-
--> In summary:
-`data/` contains the **output of every preprocessing step** (corpus → chunks → embeddings → index)
+It also contains outputs generated on the small sample.
 
 ---
 
-### 3. `logs/`
+### `logs/`
 
-Contains **SLURM job logs**:
+Contains **SLURM log files** for experiment runs.
 
-* `.log` files for each experiment run
-* used for:
+These logs are useful for:
 
-  * debugging errors
-  * monitoring runtime
-  * checking GPU usage and failures
+* monitoring running jobs
+* debugging errors
+* checking runtime behavior
+* identifying GPU memory issues
 
 ---
 
-### 4. `notebooks/`
+### `notebooks/`
 
-Contains all **development and analysis notebooks**:
+Contains all development and analysis notebooks.
 
-```text
+Main notebooks:
+
+```text id="ldm8jd"
 00_environment_check.ipynb
 01_Data_Load_Preparation.ipynb
 02_build_corpus.ipynb
@@ -110,115 +91,131 @@ Contains all **development and analysis notebooks**:
 08_BERTScore.ipynb
 ```
 
-#### Notebook roles
+#### What they do
 
 * **00** – environment setup and dependency checks
-* **01** – load and inspect dataset
-* **02** – build corpus from raw context
-* **03** – chunking strategy implementation
-* **04** – generate embeddings
-* **05** – build FAISS index
-* **06** – full RAG pipeline (retrieval + generation + evaluation)
-* **07** – aggregate experiment results
-* **08** – compute BERTScore
+* **01** – dataset loading and preparation
+* **02** – corpus construction
+* **03** – token-based chunking
+* **04** – embedding generation
+* **05** – FAISS index construction
+* **06** – full retrieval, generation, and evaluation pipeline
+* **07** – aggregation of experiment summaries
+* **08** – BERTScore computation
 
----
+#### `.ipynb` and `.py`
 
-### Important note
+The notebooks were used during development and testing.
 
-Inside `notebooks/`:
+Some `.py` files are also stored in this folder, for example:
 
-* `.ipynb` → used for development and testing
-* `.py` → production scripts for SLURM
-
-Specifically:
-
-```text
+```text id="mgthzc"
 06_full_generation_evaluation.py
 06_full_generation_evaluation_TopK_variation.py
 ```
 
-👉 These `.py` files are **converted versions of Notebook 06**,
-because SLURM requires execution as a Python script.
+These files are **converted versions of Notebook 06**, created because **SLURM expects Python scripts (`.py`) rather than notebooks (`.ipynb`)**.
 
 ---
 
-### 5. `Output_1B/`
+### `Output_1B/`
 
-Contains **final experiment outputs using LLaMA 3.2 1B model**.
+Contains the experiment outputs generated with the **LLaMA 3.2 1B model**.
 
-Structure:
+Typical structure:
 
-```text
+```text id="rffdx0"
 Output_1B/
   chunk_<size>_topk_<k>/
     predictions.jsonl
     summary.json
 ```
 
-#### Files:
+#### Files
 
-* `predictions.jsonl`
+* **`predictions.jsonl`**
 
-  * per-question results:
+  * stores per-question results, such as:
 
     * question
     * prediction
     * ground truth
-    * metrics
+    * evaluation metrics
 
-* `summary.json`
+* **`summary.json`**
 
-  * aggregated metrics:
+  * stores aggregated metrics for one configuration
 
-    * EM
-    * F1
-    * Recall@k
-    * latency
+This folder may also contain:
 
-Additionally:
-
-* aggregated CSV files (experiment summaries)
-* BERTScore results
+* aggregated CSV files
+* BERTScore summary files
 
 ---
 
-### 6. `scripts/`
+### `scripts/`
 
-Contains **SLURM job scripts** used to run experiments on GPU.
+Contains the **SLURM job scripts** used to launch experiments on GPU.
 
-* defines:
+These scripts define:
 
-  * job configuration
-  * GPU allocation
-  * runtime limits
-* executes `.py` experiment scripts from `notebooks/`
+* job name
+* partition
+* runtime
+* logging
+* execution of the corresponding `.py` experiment file
 
 ---
 
-## Execution Flow
+## Original Pipeline
 
-The pipeline is executed in the following order:
+The project was built in the following order:
 
-1. Prepare data (`01–02`)
-2. Chunk corpus (`03`)
-3. Generate embeddings (`04`)
-4. Build FAISS index (`05`)
-5. Run RAG pipeline (`06`)
-6. Aggregate results (`07`)
-7. Compute BERTScore (`08`)
+1. environment setup
+2. dataset loading
+3. corpus building
+4. chunking
+5. embedding generation
+6. FAISS indexing
+7. full generation + evaluation
+8. experiment aggregation
+9. BERTScore computation
+
+---
+
+## Path Configuration
+
+Since the original `data/` folder is not uploaded, you will likely need to update path variables in the notebooks and scripts.
+
+Typical examples include paths such as:
+
+```python id="xsme6g"
+DATA_DIR = Path("/home/a/arfaoui/rag_project/data")
+OUTPUT_DIR = Path("/home/a/arfaoui/rag_project/Output_1B")
+```
+
+If these paths do not match your environment, modify them before running the project.
+
+It is recommended to first review:
+
+* dataset paths
+* embedding paths
+* FAISS index paths
+* output paths
+* SLURM script paths
+
+This helps avoid file-not-found and path-related errors.
 
 ---
 
 ## Notes
 
-* Development is done in notebooks for flexibility
-* Final experiments are executed via `.py` scripts on SLURM
-* Intermediate outputs are stored to avoid recomputation
-* The project is modular and reproducible
+* The project was developed interactively in notebooks and later adapted to scripts for batch execution.
+* Intermediate data products are expected to exist even though they are not included here.
+* The repository structure reflects the full workflow of the RAG evaluation pipeline.
 
 ---
 
 ## Author
 
-Montassar Arfaoui.
+Zaineb Kraiem

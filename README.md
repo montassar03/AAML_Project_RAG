@@ -51,8 +51,6 @@ Typical contents:
 
 * **Dataset**
 
-  * `hotpotqa_sample_500.json`
-  * (optionally full validation set)
 
 * **Corpus**
 
@@ -78,7 +76,7 @@ Typical contents:
   * `chunks_metadata_<size>.json`
   * mapping between chunks and original documents
 
-👉 In summary:
+-> In summary:
 `data/` contains the **output of every preprocessing step** (corpus → chunks → embeddings → index)
 
 ---
